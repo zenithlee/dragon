@@ -1,0 +1,1136 @@
+2014-09-16 12:42:05,CUSBHandler,No Devices found
+2014-09-16 12:42:05,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:07,CUSBHandler,No Devices found
+2014-09-16 12:42:07,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:08,WunderBarMain,SendMetric:Want:TequilaVille
+2014-09-16 12:42:09,CUSBHandler,No Devices found
+2014-09-16 12:42:09,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:09,WunderBarMain,Confirmed
+2014-09-16 12:42:11,CUSBHandler,No Devices found
+2014-09-16 12:42:11,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:13,CUSBHandler,No Devices found
+2014-09-16 12:42:13,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:15,CUSBHandler,No Devices found
+2014-09-16 12:42:15,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:17,CUSBHandler,No Devices found
+2014-09-16 12:42:17,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:19,CUSBHandler,No Devices found
+2014-09-16 12:42:19,WunderBarMain,HandleMessage:{ when=-32ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:21,CUSBHandler,No Devices found
+2014-09-16 12:42:21,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:22,WunderBarFancy,Bootup
+2014-09-16 12:42:23,CUSBHandler,No Devices found
+2014-09-16 12:42:23,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:25,CUSBHandler,No Devices found
+2014-09-16 12:42:25,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:25,WunderBarFancy,SendMetric:Want:Cranberry Margarita
+2014-09-16 12:42:26,WunderBarFancy,SendMetric:Make:Cranberry Margarita
+2014-09-16 12:42:26,WunderBarFancy,SetDrinkStrength:100
+2014-09-16 12:42:26,CUSBHandler,s,100
+2014-09-16 12:42:26,WunderBarFancy,SetMixMode:1
+2014-09-16 12:42:26,CUSBHandler,m,1
+2014-09-16 12:42:26,WunderBarFancy,WARNING:Low on Cranberry Juice,Triple Sec,Lime Juice,Tequila,
+2014-09-16 12:42:26,CUSBHandler,H
+2014-09-16 12:42:26,WunderBarFancy,Confirmed
+2014-09-16 12:42:27,CUSBHandler,No Devices found
+2014-09-16 12:42:27,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:29,CUSBHandler,No Devices found
+2014-09-16 12:42:29,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:31,CUSBHandler,No Devices found
+2014-09-16 12:42:31,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:33,CUSBHandler,No Devices found
+2014-09-16 12:42:33,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:35,CUSBHandler,No Devices found
+2014-09-16 12:42:35,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:37,CUSBHandler,No Devices found
+2014-09-16 12:42:37,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:39,CUSBHandler,No Devices found
+2014-09-16 12:42:39,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:41,CUSBHandler,No Devices found
+2014-09-16 12:42:41,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:43,CUSBHandler,No Devices found
+2014-09-16 12:42:43,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:45,CUSBHandler,No Devices found
+2014-09-16 12:42:45,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:47,CUSBHandler,No Devices found
+2014-09-16 12:42:47,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:49,CUSBHandler,No Devices found
+2014-09-16 12:42:49,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:51,CUSBHandler,No Devices found
+2014-09-16 12:42:51,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:54,CUSBHandler,No Devices found
+2014-09-16 12:42:54,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:56,CUSBHandler,No Devices found
+2014-09-16 12:42:56,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:42:58,CUSBHandler,No Devices found
+2014-09-16 12:42:58,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:00,CUSBHandler,No Devices found
+2014-09-16 12:43:00,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:02,CUSBHandler,No Devices found
+2014-09-16 12:43:02,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:04,CUSBHandler,No Devices found
+2014-09-16 12:43:04,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:06,CUSBHandler,No Devices found
+2014-09-16 12:43:06,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:08,CUSBHandler,No Devices found
+2014-09-16 12:43:08,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:10,CUSBHandler,No Devices found
+2014-09-16 12:43:10,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:12,CUSBHandler,No Devices found
+2014-09-16 12:43:12,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:14,CUSBHandler,No Devices found
+2014-09-16 12:43:14,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:16,CUSBHandler,No Devices found
+2014-09-16 12:43:16,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:18,CUSBHandler,No Devices found
+2014-09-16 12:43:18,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:20,CUSBHandler,No Devices found
+2014-09-16 12:43:20,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:22,CUSBHandler,No Devices found
+2014-09-16 12:43:22,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:24,CUSBHandler,No Devices found
+2014-09-16 12:43:24,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:26,CUSBHandler,No Devices found
+2014-09-16 12:43:26,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:28,CUSBHandler,No Devices found
+2014-09-16 12:43:28,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:30,CUSBHandler,No Devices found
+2014-09-16 12:43:30,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:32,CUSBHandler,No Devices found
+2014-09-16 12:43:32,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:34,CUSBHandler,No Devices found
+2014-09-16 12:43:34,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:36,CUSBHandler,No Devices found
+2014-09-16 12:43:36,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:39,CUSBHandler,No Devices found
+2014-09-16 12:43:39,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:41,CUSBHandler,No Devices found
+2014-09-16 12:43:41,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:43,CUSBHandler,No Devices found
+2014-09-16 12:43:43,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:45,CUSBHandler,No Devices found
+2014-09-16 12:43:45,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:47,CUSBHandler,No Devices found
+2014-09-16 12:43:47,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e59a8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:51,WunderBarMain,Bootup
+2014-09-16 12:43:51,WunderBarMain,SetMixMode:1
+2014-09-16 12:43:51,CUSBHandler,m,1
+2014-09-16 12:43:53,CUSBHandler,No Devices found
+2014-09-16 12:43:53,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:55,CUSBHandler,No Devices found
+2014-09-16 12:43:55,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:57,CUSBHandler,No Devices found
+2014-09-16 12:43:57,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:43:59,CUSBHandler,No Devices found
+2014-09-16 12:43:59,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:01,CUSBHandler,No Devices found
+2014-09-16 12:44:01,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:03,CUSBHandler,No Devices found
+2014-09-16 12:44:04,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:06,CUSBHandler,No Devices found
+2014-09-16 12:44:06,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:08,CUSBHandler,No Devices found
+2014-09-16 12:44:08,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:10,CUSBHandler,No Devices found
+2014-09-16 12:44:10,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:12,CUSBHandler,No Devices found
+2014-09-16 12:44:12,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:14,CUSBHandler,No Devices found
+2014-09-16 12:44:14,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:16,CUSBHandler,No Devices found
+2014-09-16 12:44:16,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:18,CUSBHandler,No Devices found
+2014-09-16 12:44:18,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:20,CUSBHandler,No Devices found
+2014-09-16 12:44:20,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:22,CUSBHandler,No Devices found
+2014-09-16 12:44:22,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:24,CUSBHandler,No Devices found
+2014-09-16 12:44:24,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:26,CUSBHandler,No Devices found
+2014-09-16 12:44:26,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:28,CUSBHandler,No Devices found
+2014-09-16 12:44:28,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:30,CUSBHandler,No Devices found
+2014-09-16 12:44:30,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:32,CUSBHandler,No Devices found
+2014-09-16 12:44:32,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:34,CUSBHandler,No Devices found
+2014-09-16 12:44:34,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:36,CUSBHandler,No Devices found
+2014-09-16 12:44:36,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:38,CUSBHandler,No Devices found
+2014-09-16 12:44:38,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:40,CUSBHandler,No Devices found
+2014-09-16 12:44:40,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:42,CUSBHandler,No Devices found
+2014-09-16 12:44:42,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:44,CUSBHandler,No Devices found
+2014-09-16 12:44:44,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:46,CUSBHandler,No Devices found
+2014-09-16 12:44:46,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:48,CUSBHandler,No Devices found
+2014-09-16 12:44:48,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:50,CUSBHandler,No Devices found
+2014-09-16 12:44:50,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:52,CUSBHandler,No Devices found
+2014-09-16 12:44:52,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:54,CUSBHandler,No Devices found
+2014-09-16 12:44:54,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:56,CUSBHandler,No Devices found
+2014-09-16 12:44:56,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:44:58,CUSBHandler,No Devices found
+2014-09-16 12:44:58,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:00,CUSBHandler,No Devices found
+2014-09-16 12:45:00,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:02,CUSBHandler,No Devices found
+2014-09-16 12:45:03,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:05,CUSBHandler,No Devices found
+2014-09-16 12:45:05,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:07,CUSBHandler,No Devices found
+2014-09-16 12:45:07,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:09,CUSBHandler,No Devices found
+2014-09-16 12:45:09,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:11,CUSBHandler,No Devices found
+2014-09-16 12:45:11,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:13,CUSBHandler,No Devices found
+2014-09-16 12:45:13,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:15,CUSBHandler,No Devices found
+2014-09-16 12:45:15,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:17,CUSBHandler,No Devices found
+2014-09-16 12:45:17,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:19,CUSBHandler,No Devices found
+2014-09-16 12:45:19,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:21,CUSBHandler,No Devices found
+2014-09-16 12:45:21,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:23,CUSBHandler,No Devices found
+2014-09-16 12:45:23,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:25,CUSBHandler,No Devices found
+2014-09-16 12:45:25,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:27,CUSBHandler,No Devices found
+2014-09-16 12:45:27,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:29,CUSBHandler,No Devices found
+2014-09-16 12:45:29,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:31,CUSBHandler,No Devices found
+2014-09-16 12:45:31,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:33,CUSBHandler,No Devices found
+2014-09-16 12:45:33,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:35,CUSBHandler,No Devices found
+2014-09-16 12:45:35,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:37,CUSBHandler,No Devices found
+2014-09-16 12:45:37,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:39,CUSBHandler,No Devices found
+2014-09-16 12:45:39,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:41,CUSBHandler,No Devices found
+2014-09-16 12:45:41,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:43,CUSBHandler,No Devices found
+2014-09-16 12:45:44,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:46,CUSBHandler,No Devices found
+2014-09-16 12:45:46,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:48,CUSBHandler,No Devices found
+2014-09-16 12:45:48,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:50,CUSBHandler,No Devices found
+2014-09-16 12:45:50,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:45:52,CUSBHandler,No Devices found
+2014-09-16 12:45:52,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:08,CUSBHandler,No Devices found
+2014-09-16 12:46:15,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:17,CUSBHandler,No Devices found
+2014-09-16 12:46:17,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:19,CUSBHandler,No Devices found
+2014-09-16 12:46:19,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:21,CUSBHandler,No Devices found
+2014-09-16 12:46:21,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:23,CUSBHandler,No Devices found
+2014-09-16 12:46:23,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:25,CUSBHandler,No Devices found
+2014-09-16 12:46:25,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:27,CUSBHandler,No Devices found
+2014-09-16 12:46:27,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:29,CUSBHandler,No Devices found
+2014-09-16 12:46:29,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:31,CUSBHandler,No Devices found
+2014-09-16 12:46:31,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:34,CUSBHandler,No Devices found
+2014-09-16 12:46:34,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:36,CUSBHandler,No Devices found
+2014-09-16 12:46:36,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:38,CUSBHandler,No Devices found
+2014-09-16 12:46:38,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:40,CUSBHandler,No Devices found
+2014-09-16 12:46:40,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:42,CUSBHandler,No Devices found
+2014-09-16 12:46:42,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:44,CUSBHandler,No Devices found
+2014-09-16 12:46:44,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:46,CUSBHandler,No Devices found
+2014-09-16 12:46:46,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:48,CUSBHandler,No Devices found
+2014-09-16 12:46:48,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:50,CUSBHandler,No Devices found
+2014-09-16 12:46:50,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:52,CUSBHandler,No Devices found
+2014-09-16 12:46:52,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:54,CUSBHandler,No Devices found
+2014-09-16 12:46:54,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:56,CUSBHandler,No Devices found
+2014-09-16 12:46:56,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:46:58,CUSBHandler,No Devices found
+2014-09-16 12:46:58,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:00,CUSBHandler,No Devices found
+2014-09-16 12:47:00,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:02,CUSBHandler,No Devices found
+2014-09-16 12:47:02,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:04,CUSBHandler,No Devices found
+2014-09-16 12:47:04,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:06,CUSBHandler,No Devices found
+2014-09-16 12:47:06,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:08,CUSBHandler,No Devices found
+2014-09-16 12:47:08,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:10,CUSBHandler,No Devices found
+2014-09-16 12:47:10,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:12,CUSBHandler,No Devices found
+2014-09-16 12:47:12,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:14,CUSBHandler,No Devices found
+2014-09-16 12:47:14,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:16,CUSBHandler,No Devices found
+2014-09-16 12:47:16,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:18,CUSBHandler,No Devices found
+2014-09-16 12:47:19,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:21,CUSBHandler,No Devices found
+2014-09-16 12:47:21,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:23,CUSBHandler,No Devices found
+2014-09-16 12:47:23,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:25,CUSBHandler,No Devices found
+2014-09-16 12:47:25,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:27,CUSBHandler,No Devices found
+2014-09-16 12:47:27,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:29,CUSBHandler,No Devices found
+2014-09-16 12:47:29,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:31,CUSBHandler,No Devices found
+2014-09-16 12:47:31,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:33,CUSBHandler,No Devices found
+2014-09-16 12:47:33,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:35,CUSBHandler,No Devices found
+2014-09-16 12:47:35,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:37,CUSBHandler,No Devices found
+2014-09-16 12:47:37,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:39,CUSBHandler,No Devices found
+2014-09-16 12:47:39,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:41,CUSBHandler,No Devices found
+2014-09-16 12:47:41,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:43,CUSBHandler,No Devices found
+2014-09-16 12:47:43,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:45,CUSBHandler,No Devices found
+2014-09-16 12:47:45,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:47,CUSBHandler,No Devices found
+2014-09-16 12:47:47,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:49,CUSBHandler,No Devices found
+2014-09-16 12:47:49,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:51,CUSBHandler,No Devices found
+2014-09-16 12:47:51,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:53,CUSBHandler,No Devices found
+2014-09-16 12:47:53,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:55,CUSBHandler,No Devices found
+2014-09-16 12:47:55,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:57,CUSBHandler,No Devices found
+2014-09-16 12:47:57,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:47:59,CUSBHandler,No Devices found
+2014-09-16 12:47:59,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:01,CUSBHandler,No Devices found
+2014-09-16 12:48:02,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:04,CUSBHandler,No Devices found
+2014-09-16 12:48:04,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:06,CUSBHandler,No Devices found
+2014-09-16 12:48:06,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:08,CUSBHandler,No Devices found
+2014-09-16 12:48:08,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:10,CUSBHandler,No Devices found
+2014-09-16 12:48:10,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:12,CUSBHandler,No Devices found
+2014-09-16 12:48:12,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:14,CUSBHandler,No Devices found
+2014-09-16 12:48:14,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:16,CUSBHandler,No Devices found
+2014-09-16 12:48:16,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:18,CUSBHandler,No Devices found
+2014-09-16 12:48:18,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:20,CUSBHandler,No Devices found
+2014-09-16 12:48:20,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:22,CUSBHandler,No Devices found
+2014-09-16 12:48:22,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:24,CUSBHandler,No Devices found
+2014-09-16 12:48:24,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:26,CUSBHandler,No Devices found
+2014-09-16 12:48:26,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:28,CUSBHandler,No Devices found
+2014-09-16 12:48:28,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:30,CUSBHandler,No Devices found
+2014-09-16 12:48:30,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:32,CUSBHandler,No Devices found
+2014-09-16 12:48:32,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:34,CUSBHandler,No Devices found
+2014-09-16 12:48:34,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:36,CUSBHandler,No Devices found
+2014-09-16 12:48:36,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:38,CUSBHandler,No Devices found
+2014-09-16 12:48:38,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:40,CUSBHandler,No Devices found
+2014-09-16 12:48:40,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:42,CUSBHandler,No Devices found
+2014-09-16 12:48:42,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:44,CUSBHandler,No Devices found
+2014-09-16 12:48:44,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:46,CUSBHandler,No Devices found
+2014-09-16 12:48:46,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:48,CUSBHandler,No Devices found
+2014-09-16 12:48:48,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:50,CUSBHandler,No Devices found
+2014-09-16 12:48:50,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:52,CUSBHandler,No Devices found
+2014-09-16 12:48:52,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:54,CUSBHandler,No Devices found
+2014-09-16 12:48:54,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:56,CUSBHandler,No Devices found
+2014-09-16 12:48:56,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:48:59,CUSBHandler,No Devices found
+2014-09-16 12:48:59,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:01,CUSBHandler,No Devices found
+2014-09-16 12:49:01,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:03,CUSBHandler,No Devices found
+2014-09-16 12:49:03,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:05,CUSBHandler,No Devices found
+2014-09-16 12:49:05,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:07,CUSBHandler,No Devices found
+2014-09-16 12:49:07,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:09,CUSBHandler,No Devices found
+2014-09-16 12:49:09,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:11,CUSBHandler,No Devices found
+2014-09-16 12:49:11,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:13,CUSBHandler,No Devices found
+2014-09-16 12:49:13,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:15,CUSBHandler,No Devices found
+2014-09-16 12:49:15,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:17,CUSBHandler,No Devices found
+2014-09-16 12:49:17,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:19,CUSBHandler,No Devices found
+2014-09-16 12:49:19,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:21,CUSBHandler,No Devices found
+2014-09-16 12:49:21,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:23,CUSBHandler,No Devices found
+2014-09-16 12:49:23,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:25,CUSBHandler,No Devices found
+2014-09-16 12:49:25,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:27,CUSBHandler,No Devices found
+2014-09-16 12:49:27,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:29,CUSBHandler,No Devices found
+2014-09-16 12:49:29,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:31,CUSBHandler,No Devices found
+2014-09-16 12:49:31,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:33,CUSBHandler,No Devices found
+2014-09-16 12:49:33,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:35,CUSBHandler,No Devices found
+2014-09-16 12:49:35,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:37,CUSBHandler,No Devices found
+2014-09-16 12:49:37,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:39,CUSBHandler,No Devices found
+2014-09-16 12:49:39,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:41,CUSBHandler,No Devices found
+2014-09-16 12:49:41,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:43,CUSBHandler,No Devices found
+2014-09-16 12:49:43,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:45,CUSBHandler,No Devices found
+2014-09-16 12:49:45,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e3750 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:49:50,WunderBarMain,Bootup
+2014-09-16 12:49:50,WunderBarMain,SetMixMode:1
+2014-09-16 12:49:50,CUSBHandler,m,1
+2014-09-16 12:49:52,CUSBHandler,No Devices found
+2014-09-16 12:49:58,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:00,CUSBHandler,No Devices found
+2014-09-16 12:50:00,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:02,CUSBHandler,No Devices found
+2014-09-16 12:50:02,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:04,CUSBHandler,No Devices found
+2014-09-16 12:50:04,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:06,CUSBHandler,No Devices found
+2014-09-16 12:50:06,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:09,CUSBHandler,No Devices found
+2014-09-16 12:50:09,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:11,CUSBHandler,No Devices found
+2014-09-16 12:50:11,WunderBarMain,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:13,CUSBHandler,No Devices found
+2014-09-16 12:50:13,WunderBarMain,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:14,WunderBarFancy,Bootup
+2014-09-16 12:50:15,CUSBHandler,No Devices found
+2014-09-16 12:50:15,WunderBarFancy,HandleMessage:{ when=-2ms what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:50:17,CUSBHandler,No Devices found
+2014-09-16 12:50:17,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428dea78 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:52:53,WunderBarFancy,Bootup
+2014-09-16 12:52:55,CUSBHandler,No Devices found
+2014-09-16 12:52:55,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e0ff8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:52:55,WunderBarFancy,SendMetric:Want:Cranberry Margarita
+2014-09-16 12:52:56,WunderBarFancy,SendMetric:Make:Cranberry Margarita
+2014-09-16 12:52:56,WunderBarFancy,SetDrinkStrength:100
+2014-09-16 12:52:56,CUSBHandler,s,100
+2014-09-16 12:52:56,WunderBarFancy,SetMixMode:1
+2014-09-16 12:52:56,CUSBHandler,m,1
+2014-09-16 12:52:56,WunderBarFancy,WARNING:Low on Cranberry Juice,Triple Sec,Lime Juice,Tequila,
+2014-09-16 12:52:56,CUSBHandler,H
+2014-09-16 12:52:56,WunderBarFancy,Confirmed
+2014-09-16 12:52:57,CUSBHandler,No Devices found
+2014-09-16 12:52:57,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e0ff8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:52:59,CUSBHandler,No Devices found
+2014-09-16 12:52:59,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e0ff8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:56:46,WunderBarFancy,Bootup
+2014-09-16 12:56:48,CUSBHandler,No Devices found
+2014-09-16 12:56:48,WunderBarFancy,HandleMessage:{ when=-16ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:56:49,WunderBarFancy,SendMetric:Want:Cranberry Margarita
+2014-09-16 12:56:50,CUSBHandler,No Devices found
+2014-09-16 12:56:50,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:56:50,WunderBarFancy,SendMetric:Make:Cranberry Margarita
+2014-09-16 12:56:50,WunderBarFancy,SetDrinkStrength:100
+2014-09-16 12:56:50,CUSBHandler,s,100
+2014-09-16 12:56:50,WunderBarFancy,SetMixMode:1
+2014-09-16 12:56:50,CUSBHandler,m,1
+2014-09-16 12:56:50,WunderBarFancy,WARNING:Low on Cranberry Juice,Triple Sec,Lime Juice,Tequila,
+2014-09-16 12:56:50,CUSBHandler,H
+2014-09-16 12:56:50,WunderBarFancy,Confirmed
+2014-09-16 12:56:51,WunderBarFancy,SendMetric:Want:Kamikaze
+2014-09-16 12:56:52,CUSBHandler,No Devices found
+2014-09-16 12:56:52,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:56:52,WunderBarFancy,Confirmed
+2014-09-16 12:56:54,CUSBHandler,No Devices found
+2014-09-16 12:56:54,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:56:56,CUSBHandler,No Devices found
+2014-09-16 12:56:56,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:56:58,CUSBHandler,No Devices found
+2014-09-16 12:56:58,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:00,CUSBHandler,No Devices found
+2014-09-16 12:57:00,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:02,CUSBHandler,No Devices found
+2014-09-16 12:57:02,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:04,CUSBHandler,No Devices found
+2014-09-16 12:57:04,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:06,CUSBHandler,No Devices found
+2014-09-16 12:57:06,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:08,CUSBHandler,No Devices found
+2014-09-16 12:57:08,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:10,CUSBHandler,No Devices found
+2014-09-16 12:57:10,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:12,CUSBHandler,No Devices found
+2014-09-16 12:57:12,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:14,CUSBHandler,No Devices found
+2014-09-16 12:57:14,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:16,CUSBHandler,No Devices found
+2014-09-16 12:57:16,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:18,CUSBHandler,No Devices found
+2014-09-16 12:57:18,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:20,CUSBHandler,No Devices found
+2014-09-16 12:57:20,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:22,CUSBHandler,No Devices found
+2014-09-16 12:57:22,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:24,CUSBHandler,No Devices found
+2014-09-16 12:57:24,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:26,CUSBHandler,No Devices found
+2014-09-16 12:57:26,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:28,CUSBHandler,No Devices found
+2014-09-16 12:57:28,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:30,CUSBHandler,No Devices found
+2014-09-16 12:57:30,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:32,CUSBHandler,No Devices found
+2014-09-16 12:57:32,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:34,CUSBHandler,No Devices found
+2014-09-16 12:57:34,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:36,CUSBHandler,No Devices found
+2014-09-16 12:57:36,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:38,CUSBHandler,No Devices found
+2014-09-16 12:57:38,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:40,CUSBHandler,No Devices found
+2014-09-16 12:57:40,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:42,CUSBHandler,No Devices found
+2014-09-16 12:57:42,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:44,CUSBHandler,No Devices found
+2014-09-16 12:57:44,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:46,CUSBHandler,No Devices found
+2014-09-16 12:57:46,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:48,CUSBHandler,No Devices found
+2014-09-16 12:57:48,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:50,CUSBHandler,No Devices found
+2014-09-16 12:57:50,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:52,CUSBHandler,No Devices found
+2014-09-16 12:57:52,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:54,CUSBHandler,No Devices found
+2014-09-16 12:57:54,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:56,CUSBHandler,No Devices found
+2014-09-16 12:57:56,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:57:58,CUSBHandler,No Devices found
+2014-09-16 12:57:58,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:00,CUSBHandler,No Devices found
+2014-09-16 12:58:00,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:02,CUSBHandler,No Devices found
+2014-09-16 12:58:02,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:04,CUSBHandler,No Devices found
+2014-09-16 12:58:04,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:06,CUSBHandler,No Devices found
+2014-09-16 12:58:06,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:08,CUSBHandler,No Devices found
+2014-09-16 12:58:08,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:10,CUSBHandler,No Devices found
+2014-09-16 12:58:10,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:12,CUSBHandler,No Devices found
+2014-09-16 12:58:12,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:14,CUSBHandler,No Devices found
+2014-09-16 12:58:14,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:16,CUSBHandler,No Devices found
+2014-09-16 12:58:16,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:19,CUSBHandler,No Devices found
+2014-09-16 12:58:19,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:21,CUSBHandler,No Devices found
+2014-09-16 12:58:21,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:23,CUSBHandler,No Devices found
+2014-09-16 12:58:23,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:25,CUSBHandler,No Devices found
+2014-09-16 12:58:25,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:27,CUSBHandler,No Devices found
+2014-09-16 12:58:27,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:29,CUSBHandler,No Devices found
+2014-09-16 12:58:29,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:31,CUSBHandler,No Devices found
+2014-09-16 12:58:31,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:33,CUSBHandler,No Devices found
+2014-09-16 12:58:33,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:35,CUSBHandler,No Devices found
+2014-09-16 12:58:35,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:37,CUSBHandler,No Devices found
+2014-09-16 12:58:37,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:39,CUSBHandler,No Devices found
+2014-09-16 12:58:39,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:41,CUSBHandler,No Devices found
+2014-09-16 12:58:41,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:43,CUSBHandler,No Devices found
+2014-09-16 12:58:43,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:45,CUSBHandler,No Devices found
+2014-09-16 12:58:45,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:47,CUSBHandler,No Devices found
+2014-09-16 12:58:47,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:49,CUSBHandler,No Devices found
+2014-09-16 12:58:49,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:51,CUSBHandler,No Devices found
+2014-09-16 12:58:51,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:53,CUSBHandler,No Devices found
+2014-09-16 12:58:53,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:55,CUSBHandler,No Devices found
+2014-09-16 12:58:55,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:57,CUSBHandler,No Devices found
+2014-09-16 12:58:57,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:58:59,CUSBHandler,No Devices found
+2014-09-16 12:58:59,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:01,CUSBHandler,No Devices found
+2014-09-16 12:59:01,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:03,CUSBHandler,No Devices found
+2014-09-16 12:59:03,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:05,CUSBHandler,No Devices found
+2014-09-16 12:59:05,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:07,CUSBHandler,No Devices found
+2014-09-16 12:59:07,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:09,CUSBHandler,No Devices found
+2014-09-16 12:59:09,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:11,CUSBHandler,No Devices found
+2014-09-16 12:59:11,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:13,CUSBHandler,No Devices found
+2014-09-16 12:59:13,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:15,CUSBHandler,No Devices found
+2014-09-16 12:59:15,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:17,CUSBHandler,No Devices found
+2014-09-16 12:59:17,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:19,CUSBHandler,No Devices found
+2014-09-16 12:59:19,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:21,CUSBHandler,No Devices found
+2014-09-16 12:59:21,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:23,CUSBHandler,No Devices found
+2014-09-16 12:59:23,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:25,CUSBHandler,No Devices found
+2014-09-16 12:59:25,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:27,CUSBHandler,No Devices found
+2014-09-16 12:59:27,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:29,CUSBHandler,No Devices found
+2014-09-16 12:59:29,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:31,CUSBHandler,No Devices found
+2014-09-16 12:59:31,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:33,CUSBHandler,No Devices found
+2014-09-16 12:59:33,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:35,CUSBHandler,No Devices found
+2014-09-16 12:59:35,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:37,CUSBHandler,No Devices found
+2014-09-16 12:59:37,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:39,CUSBHandler,No Devices found
+2014-09-16 12:59:39,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:41,CUSBHandler,No Devices found
+2014-09-16 12:59:41,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:43,CUSBHandler,No Devices found
+2014-09-16 12:59:43,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:45,CUSBHandler,No Devices found
+2014-09-16 12:59:45,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:47,CUSBHandler,No Devices found
+2014-09-16 12:59:47,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:49,CUSBHandler,No Devices found
+2014-09-16 12:59:49,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:52,CUSBHandler,No Devices found
+2014-09-16 12:59:52,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:54,CUSBHandler,No Devices found
+2014-09-16 12:59:54,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:56,CUSBHandler,No Devices found
+2014-09-16 12:59:56,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 12:59:58,CUSBHandler,No Devices found
+2014-09-16 12:59:58,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:00,CUSBHandler,No Devices found
+2014-09-16 13:00:00,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:02,CUSBHandler,No Devices found
+2014-09-16 13:00:02,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:04,CUSBHandler,No Devices found
+2014-09-16 13:00:04,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:06,CUSBHandler,No Devices found
+2014-09-16 13:00:06,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:08,CUSBHandler,No Devices found
+2014-09-16 13:00:08,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:10,CUSBHandler,No Devices found
+2014-09-16 13:00:10,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:12,CUSBHandler,No Devices found
+2014-09-16 13:00:12,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:14,CUSBHandler,No Devices found
+2014-09-16 13:00:14,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:16,CUSBHandler,No Devices found
+2014-09-16 13:00:16,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:18,CUSBHandler,No Devices found
+2014-09-16 13:00:18,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:20,CUSBHandler,No Devices found
+2014-09-16 13:00:20,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:22,CUSBHandler,No Devices found
+2014-09-16 13:00:22,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:24,CUSBHandler,No Devices found
+2014-09-16 13:00:24,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:26,CUSBHandler,No Devices found
+2014-09-16 13:00:26,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:28,CUSBHandler,No Devices found
+2014-09-16 13:00:28,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:30,CUSBHandler,No Devices found
+2014-09-16 13:00:30,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:32,CUSBHandler,No Devices found
+2014-09-16 13:00:32,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:34,CUSBHandler,No Devices found
+2014-09-16 13:00:34,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:36,CUSBHandler,No Devices found
+2014-09-16 13:00:36,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:38,CUSBHandler,No Devices found
+2014-09-16 13:00:38,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:40,CUSBHandler,No Devices found
+2014-09-16 13:00:40,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:42,CUSBHandler,No Devices found
+2014-09-16 13:00:42,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:44,CUSBHandler,No Devices found
+2014-09-16 13:00:44,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:46,CUSBHandler,No Devices found
+2014-09-16 13:00:46,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:48,CUSBHandler,No Devices found
+2014-09-16 13:00:48,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:50,CUSBHandler,No Devices found
+2014-09-16 13:00:50,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:52,CUSBHandler,No Devices found
+2014-09-16 13:00:52,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:54,CUSBHandler,No Devices found
+2014-09-16 13:00:54,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:56,CUSBHandler,No Devices found
+2014-09-16 13:00:56,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:00:58,CUSBHandler,No Devices found
+2014-09-16 13:00:58,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:00,CUSBHandler,No Devices found
+2014-09-16 13:01:00,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:02,CUSBHandler,No Devices found
+2014-09-16 13:01:02,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:04,CUSBHandler,No Devices found
+2014-09-16 13:01:04,WunderBarFancy,HandleMessage:{ when=-1ms what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:06,CUSBHandler,No Devices found
+2014-09-16 13:01:06,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:08,CUSBHandler,No Devices found
+2014-09-16 13:01:08,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:10,CUSBHandler,No Devices found
+2014-09-16 13:01:10,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:12,CUSBHandler,No Devices found
+2014-09-16 13:01:12,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:14,CUSBHandler,No Devices found
+2014-09-16 13:01:14,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:17,CUSBHandler,No Devices found
+2014-09-16 13:01:17,WunderBarFancy,HandleMessage:{ when=0 what=0 obj=karllilje.com.barbot.CUSBHandler@428e09e8 target=karllilje.com.barbot.IRobotActivity$1 }
+2014-09-16 13:01:22,WunderBarMain,Bootup
+2014-09-16 13:01:22,WunderBarMain,SetMixMode:1
+2014-09-16 13:01:22,CUSBHandler,m,1
+2014-09-16 13:01:24,CUSBHandler,No Devices found
+2014-09-16 13:01:26,CUSBHandler,No Devices found
+2014-09-16 13:01:28,CUSBHandler,No Devices found
+2014-09-16 13:01:30,CUSBHandler,No Devices found
+2014-09-16 13:01:32,CUSBHandler,No Devices found
+2014-09-16 13:01:34,CUSBHandler,No Devices found
+2014-09-16 13:01:36,CUSBHandler,No Devices found
+2014-09-16 13:01:38,CUSBHandler,No Devices found
+2014-09-16 13:01:40,CUSBHandler,No Devices found
+2014-09-16 13:01:42,CUSBHandler,No Devices found
+2014-09-16 13:01:44,CUSBHandler,No Devices found
+2014-09-16 13:01:46,CUSBHandler,No Devices found
+2014-09-16 13:01:48,CUSBHandler,No Devices found
+2014-09-16 13:01:50,CUSBHandler,No Devices found
+2014-09-16 13:01:52,CUSBHandler,No Devices found
+2014-09-16 13:01:54,CUSBHandler,No Devices found
+2014-09-16 13:01:56,CUSBHandler,No Devices found
+2014-09-16 13:01:58,CUSBHandler,No Devices found
+2014-09-16 13:02:01,CUSBHandler,No Devices found
+2014-09-16 13:02:03,CUSBHandler,No Devices found
+2014-09-16 13:02:05,CUSBHandler,No Devices found
+2014-09-16 13:02:07,CUSBHandler,No Devices found
+2014-09-16 13:02:09,CUSBHandler,No Devices found
+2014-09-16 13:02:11,CUSBHandler,No Devices found
+2014-09-16 13:02:13,CUSBHandler,No Devices found
+2014-09-16 13:02:15,CUSBHandler,No Devices found
+2014-09-16 13:02:17,CUSBHandler,No Devices found
+2014-09-16 13:02:19,CUSBHandler,No Devices found
+2014-09-16 13:02:21,CUSBHandler,No Devices found
+2014-09-16 13:38:05,WunderBarMain,Bootup
+2014-09-16 13:38:06,WunderBarMain,SetMixMode:1
+2014-09-16 13:38:06,CUSBHandler,m,1
+2014-09-16 13:38:07,CUSBHandler,No Devices found
+2014-09-16 13:38:10,CUSBHandler,No Devices found
+2014-09-16 13:38:12,CUSBHandler,No Devices found
+2014-09-16 13:38:14,CUSBHandler,No Devices found
+2014-09-16 13:38:16,CUSBHandler,No Devices found
+2014-09-16 13:38:18,CUSBHandler,No Devices found
+2014-09-16 13:38:20,CUSBHandler,No Devices found
+2014-09-16 13:38:22,CUSBHandler,No Devices found
+2014-09-16 13:38:24,CUSBHandler,No Devices found
+2014-09-16 13:38:26,CUSBHandler,No Devices found
+2014-09-16 13:38:28,CUSBHandler,No Devices found
+2014-09-16 13:38:30,CUSBHandler,No Devices found
+2014-09-16 13:38:32,CUSBHandler,No Devices found
+2014-09-16 13:38:34,CUSBHandler,No Devices found
+2014-09-16 13:38:36,CUSBHandler,No Devices found
+2014-09-16 13:38:38,CUSBHandler,No Devices found
+2014-09-16 13:38:40,CUSBHandler,No Devices found
+2014-09-16 13:38:41,WunderBarMain,Bootup
+2014-09-16 13:38:41,WunderBarMain,SetMixMode:1
+2014-09-16 13:38:41,CUSBHandler,m,1
+2014-09-16 13:38:42,CUSBHandler,No Devices found
+2014-09-16 13:38:44,CUSBHandler,No Devices found
+2014-09-16 13:38:46,CUSBHandler,No Devices found
+2014-09-16 13:38:47,WunderBarFancy,Bootup
+2014-09-16 13:38:48,CUSBHandler,No Devices found
+2014-09-16 13:38:50,CUSBHandler,No Devices found
+2014-09-16 13:38:52,CUSBHandler,No Devices found
+2014-09-16 13:38:54,WunderBarFancy,SetDrinkStrength:100
+2014-09-16 13:38:54,CUSBHandler,s,100
+2014-09-16 13:38:54,WunderBarFancy,SetMixMode:1
+2014-09-16 13:38:54,CUSBHandler,m,1
+2014-09-16 13:38:54,CUSBHandler,No Devices found
+2014-09-16 13:38:56,CUSBHandler,No Devices found
+2014-09-16 13:38:58,CUSBHandler,No Devices found
+2014-09-16 13:39:00,CUSBHandler,No Devices found
+2014-09-16 13:39:03,CUSBHandler,No Devices found
+2014-09-16 13:39:04,WunderBarFancy,SendMetric:Want:Bay Breeze
+2014-09-16 13:39:05,CUSBHandler,No Devices found
+2014-09-16 13:39:05,WunderBarFancy,Confirmed
+2014-09-16 13:39:07,CUSBHandler,No Devices found
+2014-09-16 13:39:09,CUSBHandler,No Devices found
+2014-09-16 13:39:11,CUSBHandler,No Devices found
+2014-09-16 13:39:13,CUSBHandler,No Devices found
+2014-09-16 13:39:15,CUSBHandler,No Devices found
+2014-09-16 13:39:17,CUSBHandler,No Devices found
+2014-09-16 13:39:19,CUSBHandler,No Devices found
+2014-09-16 13:39:21,CUSBHandler,No Devices found
+2014-09-16 13:39:23,CUSBHandler,No Devices found
+2014-09-16 13:39:25,CUSBHandler,No Devices found
+2014-09-16 13:39:27,CUSBHandler,No Devices found
+2014-09-16 13:39:29,CUSBHandler,No Devices found
+2014-09-16 13:39:31,CUSBHandler,No Devices found
+2014-09-16 13:39:33,CUSBHandler,No Devices found
+2014-09-16 13:39:35,CUSBHandler,No Devices found
+2014-09-16 13:39:37,CUSBHandler,No Devices found
+2014-09-16 13:39:39,CUSBHandler,No Devices found
+2014-09-16 13:39:41,CUSBHandler,No Devices found
+2014-09-16 13:39:43,CUSBHandler,No Devices found
+2014-09-16 13:39:45,CUSBHandler,No Devices found
+2014-09-16 13:39:47,CUSBHandler,No Devices found
+2014-09-16 13:39:49,CUSBHandler,No Devices found
+2014-09-16 13:39:51,CUSBHandler,No Devices found
+2014-09-16 13:39:53,CUSBHandler,No Devices found
+2014-09-16 13:39:56,CUSBHandler,No Devices found
+2014-09-16 13:39:58,CUSBHandler,No Devices found
+2014-09-16 13:40:00,CUSBHandler,No Devices found
+2014-09-16 13:40:02,CUSBHandler,No Devices found
+2014-09-16 13:40:04,CUSBHandler,No Devices found
+2014-09-16 13:40:06,CUSBHandler,No Devices found
+2014-09-16 13:40:08,CUSBHandler,No Devices found
+2014-09-16 13:40:10,CUSBHandler,No Devices found
+2014-09-16 13:40:12,CUSBHandler,No Devices found
+2014-09-16 13:40:14,CUSBHandler,No Devices found
+2014-09-16 13:40:16,CUSBHandler,No Devices found
+2014-09-16 13:40:18,CUSBHandler,No Devices found
+2014-09-16 13:40:20,CUSBHandler,No Devices found
+2014-09-16 13:40:22,CUSBHandler,No Devices found
+2014-09-16 13:40:24,CUSBHandler,No Devices found
+2014-09-16 13:40:26,CUSBHandler,No Devices found
+2014-09-16 13:40:28,CUSBHandler,No Devices found
+2014-09-16 13:40:30,CUSBHandler,No Devices found
+2014-09-16 13:40:32,CUSBHandler,No Devices found
+2014-09-16 13:40:34,CUSBHandler,No Devices found
+2014-09-16 13:40:36,CUSBHandler,No Devices found
+2014-09-16 13:40:38,CUSBHandler,No Devices found
+2014-09-16 13:40:40,CUSBHandler,No Devices found
+2014-09-16 13:40:42,CUSBHandler,No Devices found
+2014-09-16 13:40:44,CUSBHandler,No Devices found
+2014-09-16 13:40:46,CUSBHandler,No Devices found
+2014-09-16 13:40:48,CUSBHandler,No Devices found
+2014-09-16 13:40:50,CUSBHandler,No Devices found
+2014-09-16 13:40:52,CUSBHandler,No Devices found
+2014-09-16 13:40:54,CUSBHandler,No Devices found
+2014-09-16 13:40:56,CUSBHandler,No Devices found
+2014-09-16 13:40:58,CUSBHandler,No Devices found
+2014-09-16 13:41:00,CUSBHandler,No Devices found
+2014-09-16 13:41:02,CUSBHandler,No Devices found
+2014-09-16 13:41:04,CUSBHandler,No Devices found
+2014-09-16 13:41:06,CUSBHandler,No Devices found
+2014-09-16 13:41:08,CUSBHandler,No Devices found
+2014-09-16 13:41:10,CUSBHandler,No Devices found
+2014-09-16 13:41:12,CUSBHandler,No Devices found
+2014-09-16 13:41:14,CUSBHandler,No Devices found
+2014-09-16 13:41:17,CUSBHandler,No Devices found
+2014-09-16 13:41:19,CUSBHandler,No Devices found
+2014-09-16 13:41:21,CUSBHandler,No Devices found
+2014-09-16 13:41:23,CUSBHandler,No Devices found
+2014-09-16 13:41:25,CUSBHandler,No Devices found
+2014-09-16 13:41:27,CUSBHandler,No Devices found
+2014-09-16 13:41:29,CUSBHandler,No Devices found
+2014-09-16 13:41:31,CUSBHandler,No Devices found
+2014-09-16 13:41:33,CUSBHandler,No Devices found
+2014-09-16 13:41:35,CUSBHandler,No Devices found
+2014-09-16 13:41:37,CUSBHandler,No Devices found
+2014-09-16 13:41:39,CUSBHandler,No Devices found
+2014-09-16 13:41:41,CUSBHandler,No Devices found
+2014-09-16 13:41:43,CUSBHandler,No Devices found
+2014-09-16 13:41:45,CUSBHandler,No Devices found
+2014-09-16 13:41:47,CUSBHandler,No Devices found
+2014-09-16 13:41:48,CUSBHandler,No Devices found
+2014-09-16 13:41:50,CUSBHandler,No Devices found
+2014-09-16 13:41:52,CUSBHandler,No Devices found
+2014-09-16 13:41:54,CUSBHandler,No Devices found
+2014-09-16 13:41:56,CUSBHandler,No Devices found
+2014-09-16 13:41:58,CUSBHandler,No Devices found
+2014-09-16 13:42:00,CUSBHandler,No Devices found
+2014-09-16 13:42:02,CUSBHandler,No Devices found
+2014-09-16 13:42:04,CUSBHandler,No Devices found
+2014-09-16 13:42:06,CUSBHandler,No Devices found
+2014-09-16 13:42:08,CUSBHandler,No Devices found
+2014-09-16 13:42:10,CUSBHandler,No Devices found
+2014-09-16 13:42:12,CUSBHandler,No Devices found
+2014-09-16 13:42:14,CUSBHandler,No Devices found
+2014-09-16 13:42:17,CUSBHandler,No Devices found
+2014-09-16 13:42:19,CUSBHandler,No Devices found
+2014-09-16 13:42:21,CUSBHandler,No Devices found
+2014-09-16 13:42:23,CUSBHandler,No Devices found
+2014-09-16 13:42:25,CUSBHandler,No Devices found
+2014-09-16 13:42:27,CUSBHandler,No Devices found
+2014-09-16 13:42:29,CUSBHandler,No Devices found
+2014-09-16 13:42:31,CUSBHandler,No Devices found
+2014-09-16 13:42:33,CUSBHandler,No Devices found
+2014-09-16 13:42:35,CUSBHandler,No Devices found
+2014-09-16 13:42:37,CUSBHandler,No Devices found
+2014-09-16 13:42:39,CUSBHandler,No Devices found
+2014-09-16 13:42:41,CUSBHandler,No Devices found
+2014-09-16 13:42:43,CUSBHandler,No Devices found
+2014-09-16 13:42:45,CUSBHandler,No Devices found
+2014-09-16 13:42:47,CUSBHandler,No Devices found
+2014-09-16 13:42:49,CUSBHandler,No Devices found
+2014-09-16 13:42:51,CUSBHandler,No Devices found
+2014-09-16 13:42:53,CUSBHandler,No Devices found
+2014-09-16 13:42:55,CUSBHandler,No Devices found
+2014-09-16 13:42:57,CUSBHandler,No Devices found
+2014-09-16 13:42:59,CUSBHandler,No Devices found
+2014-09-16 13:43:01,CUSBHandler,No Devices found
+2014-09-16 13:43:03,CUSBHandler,No Devices found
+2014-09-16 13:43:05,CUSBHandler,No Devices found
+2014-09-16 13:43:07,CUSBHandler,No Devices found
+2014-09-16 13:43:09,CUSBHandler,No Devices found
+2014-09-16 13:43:11,CUSBHandler,No Devices found
+2014-09-16 13:43:13,CUSBHandler,No Devices found
+2014-09-16 13:43:15,CUSBHandler,No Devices found
+2014-09-16 13:43:17,CUSBHandler,No Devices found
+2014-09-16 13:43:19,CUSBHandler,No Devices found
+2014-09-16 13:43:21,CUSBHandler,No Devices found
+2014-09-16 13:43:23,CUSBHandler,No Devices found
+2014-09-16 13:43:25,CUSBHandler,No Devices found
+2014-09-16 13:43:27,CUSBHandler,No Devices found
+2014-09-16 13:43:29,CUSBHandler,No Devices found
+2014-09-16 13:43:31,CUSBHandler,No Devices found
+2014-09-16 13:43:33,CUSBHandler,No Devices found
+2014-09-16 13:43:35,CUSBHandler,No Devices found
+2014-09-16 13:43:37,CUSBHandler,No Devices found
+2014-09-16 13:43:39,CUSBHandler,No Devices found
+2014-09-16 13:43:41,CUSBHandler,No Devices found
+2014-09-16 13:43:43,CUSBHandler,No Devices found
+2014-09-16 13:43:45,CUSBHandler,No Devices found
+2014-09-16 13:43:47,CUSBHandler,No Devices found
+2014-09-16 13:43:49,CUSBHandler,No Devices found
+2014-09-16 13:43:51,CUSBHandler,No Devices found
+2014-09-16 13:43:53,CUSBHandler,No Devices found
+2014-09-16 13:43:55,CUSBHandler,No Devices found
+2014-09-16 13:43:58,CUSBHandler,No Devices found
+2014-09-16 13:44:00,CUSBHandler,No Devices found
+2014-09-16 13:44:02,CUSBHandler,No Devices found
+2014-09-16 13:44:04,CUSBHandler,No Devices found
+2014-09-16 13:44:06,CUSBHandler,No Devices found
+2014-09-16 13:44:08,CUSBHandler,No Devices found
+2014-09-16 13:44:10,CUSBHandler,No Devices found
+2014-09-16 13:44:12,CUSBHandler,No Devices found
+2014-09-16 13:44:14,CUSBHandler,No Devices found
+2014-09-16 13:44:16,CUSBHandler,No Devices found
+2014-09-16 13:44:18,CUSBHandler,No Devices found
+2014-09-16 13:44:20,CUSBHandler,No Devices found
+2014-09-16 13:44:22,CUSBHandler,No Devices found
+2014-09-16 13:44:24,CUSBHandler,No Devices found
+2014-09-16 13:44:26,CUSBHandler,No Devices found
+2014-09-16 13:44:28,CUSBHandler,No Devices found
+2014-09-16 13:44:30,CUSBHandler,No Devices found
+2014-09-16 13:44:32,CUSBHandler,No Devices found
+2014-09-16 13:44:34,CUSBHandler,No Devices found
+2014-09-16 13:44:36,CUSBHandler,No Devices found
+2014-09-16 13:44:38,CUSBHandler,No Devices found
+2014-09-16 13:44:40,CUSBHandler,No Devices found
+2014-09-16 13:44:42,CUSBHandler,No Devices found
+2014-09-16 13:44:44,CUSBHandler,No Devices found
+2014-09-16 13:44:46,CUSBHandler,No Devices found
+2014-09-16 13:44:48,CUSBHandler,No Devices found
+2014-09-16 13:44:50,CUSBHandler,No Devices found
+2014-09-16 13:44:52,CUSBHandler,No Devices found
+2014-09-16 13:44:54,CUSBHandler,No Devices found
+2014-09-16 13:44:56,CUSBHandler,No Devices found
+2014-09-16 13:44:58,CUSBHandler,No Devices found
+2014-09-16 13:45:00,CUSBHandler,No Devices found
+2014-09-16 13:45:02,CUSBHandler,No Devices found
+2014-09-16 13:45:04,CUSBHandler,No Devices found
+2014-09-16 13:45:06,CUSBHandler,No Devices found
+2014-09-16 13:45:08,CUSBHandler,No Devices found
+2014-09-16 13:45:10,CUSBHandler,No Devices found
+2014-09-16 13:45:12,CUSBHandler,No Devices found
+2014-09-16 13:45:14,CUSBHandler,No Devices found
+2014-09-16 13:45:16,CUSBHandler,No Devices found
+2014-09-16 13:45:18,CUSBHandler,No Devices found
+2014-09-16 13:45:20,CUSBHandler,No Devices found
+2014-09-16 13:45:22,CUSBHandler,No Devices found
+2014-09-16 13:45:24,CUSBHandler,No Devices found
+2014-09-16 13:45:26,CUSBHandler,No Devices found
+2014-09-16 13:45:29,CUSBHandler,No Devices found
+2014-09-16 13:45:31,CUSBHandler,No Devices found
+2014-09-16 13:45:33,CUSBHandler,No Devices found
+2014-09-16 13:45:35,CUSBHandler,No Devices found
+2014-09-16 13:45:37,CUSBHandler,No Devices found
+2014-09-16 13:45:39,CUSBHandler,No Devices found
+2014-09-16 13:45:41,CUSBHandler,No Devices found
+2014-09-16 13:45:43,CUSBHandler,No Devices found
+2014-09-16 13:45:45,CUSBHandler,No Devices found
+2014-09-16 13:45:47,CUSBHandler,No Devices found
+2014-09-16 13:45:49,CUSBHandler,No Devices found
+2014-09-16 13:45:51,CUSBHandler,No Devices found
+2014-09-16 13:45:53,CUSBHandler,No Devices found
+2014-09-16 13:45:55,CUSBHandler,No Devices found
+2014-09-16 13:45:57,CUSBHandler,No Devices found
+2014-09-16 13:45:59,CUSBHandler,No Devices found
+2014-09-16 13:46:01,CUSBHandler,No Devices found
+2014-09-16 13:46:03,CUSBHandler,No Devices found
+2014-09-16 13:46:05,CUSBHandler,No Devices found
+2014-09-16 13:46:07,CUSBHandler,No Devices found
+2014-09-16 13:46:09,CUSBHandler,No Devices found
+2014-09-16 13:46:11,CUSBHandler,No Devices found
+2014-09-16 13:46:13,CUSBHandler,No Devices found
+2014-09-16 13:46:15,CUSBHandler,No Devices found
+2014-09-16 13:46:17,CUSBHandler,No Devices found
+2014-09-16 13:46:19,CUSBHandler,No Devices found
+2014-09-16 13:46:21,CUSBHandler,No Devices found
+2014-09-16 13:46:23,CUSBHandler,No Devices found
+2014-09-16 13:46:25,CUSBHandler,No Devices found
+2014-09-16 13:46:27,CUSBHandler,No Devices found
+2014-09-16 13:46:29,CUSBHandler,No Devices found
+2014-09-16 13:46:31,CUSBHandler,No Devices found
+2014-09-16 13:46:33,CUSBHandler,No Devices found
+2014-09-16 13:46:35,CUSBHandler,No Devices found
+2014-09-16 13:46:37,CUSBHandler,No Devices found
+2014-09-16 13:46:39,CUSBHandler,No Devices found
+2014-09-16 13:46:41,CUSBHandler,No Devices found
+2014-09-16 13:46:43,CUSBHandler,No Devices found
+2014-09-16 13:46:45,CUSBHandler,No Devices found
+2014-09-16 13:46:47,CUSBHandler,No Devices found
+2014-09-16 13:46:49,CUSBHandler,No Devices found
+2014-09-16 13:46:51,CUSBHandler,No Devices found
+2014-09-16 13:46:53,CUSBHandler,No Devices found
+2014-09-16 13:46:55,CUSBHandler,No Devices found
+2014-09-16 13:46:57,CUSBHandler,No Devices found
+2014-09-16 13:46:59,CUSBHandler,No Devices found
+2014-09-16 13:47:01,CUSBHandler,No Devices found
+2014-09-16 13:47:03,CUSBHandler,No Devices found
+2014-09-16 13:47:06,CUSBHandler,No Devices found
+2014-09-16 13:47:08,CUSBHandler,No Devices found
+2014-09-16 13:47:10,CUSBHandler,No Devices found
+2014-09-16 13:47:12,CUSBHandler,No Devices found
+2014-09-16 13:47:14,CUSBHandler,No Devices found
+2014-09-16 13:47:16,CUSBHandler,No Devices found
+2014-09-16 13:47:18,CUSBHandler,No Devices found
+2014-09-16 13:47:20,CUSBHandler,No Devices found
+2014-09-16 13:47:22,CUSBHandler,No Devices found
+2014-09-16 13:47:24,CUSBHandler,No Devices found
+2014-09-16 13:47:26,CUSBHandler,No Devices found
+2014-09-16 13:47:28,CUSBHandler,No Devices found
+2014-09-16 13:47:30,CUSBHandler,No Devices found
+2014-09-16 13:47:32,CUSBHandler,No Devices found
+2014-09-16 13:47:34,CUSBHandler,No Devices found
+2014-09-16 13:47:36,CUSBHandler,No Devices found
+2014-09-16 13:47:38,CUSBHandler,No Devices found
+2014-09-16 13:47:40,CUSBHandler,No Devices found
+2014-09-16 13:47:42,CUSBHandler,No Devices found
+2014-09-16 13:47:44,CUSBHandler,No Devices found
+2014-09-16 13:47:46,CUSBHandler,No Devices found
+2014-09-16 13:47:48,CUSBHandler,No Devices found
+2014-09-16 13:47:50,CUSBHandler,No Devices found
+2014-09-16 13:47:52,CUSBHandler,No Devices found
+2014-09-16 13:47:54,CUSBHandler,No Devices found
+2014-09-16 13:47:56,CUSBHandler,No Devices found
+2014-09-16 13:47:58,CUSBHandler,No Devices found
+2014-09-16 13:48:00,CUSBHandler,No Devices found
+2014-09-16 13:48:02,CUSBHandler,No Devices found
+2014-09-16 13:48:04,CUSBHandler,No Devices found
+2014-09-16 13:48:06,CUSBHandler,No Devices found
+2014-09-16 13:48:08,CUSBHandler,No Devices found
+2014-09-16 13:48:10,CUSBHandler,No Devices found
+2014-09-16 13:48:12,CUSBHandler,No Devices found
+2014-09-16 13:48:14,CUSBHandler,No Devices found
+2014-09-16 13:48:16,CUSBHandler,No Devices found
+2014-09-16 13:48:18,CUSBHandler,No Devices found
+2014-09-16 13:48:20,CUSBHandler,No Devices found
+2014-09-16 13:48:22,CUSBHandler,No Devices found
+2014-09-16 13:48:24,CUSBHandler,No Devices found
+2014-09-16 13:48:26,CUSBHandler,No Devices found
+2014-09-16 13:48:28,CUSBHandler,No Devices found
+2014-09-16 13:48:30,CUSBHandler,No Devices found
+2014-09-16 13:48:32,CUSBHandler,No Devices found
+2014-09-16 13:48:34,CUSBHandler,No Devices found
+2014-09-16 13:48:36,CUSBHandler,No Devices found
+2014-09-16 13:48:38,CUSBHandler,No Devices found
+2014-09-16 13:48:40,CUSBHandler,No Devices found
+2014-09-16 13:48:43,CUSBHandler,No Devices found
+2014-09-16 13:48:45,CUSBHandler,No Devices found
+2014-09-16 13:48:47,CUSBHandler,No Devices found
+2014-09-16 13:48:49,CUSBHandler,No Devices found
+2014-09-16 13:48:51,CUSBHandler,No Devices found
+2014-09-16 13:48:53,CUSBHandler,No Devices found
+2014-09-16 13:48:55,CUSBHandler,No Devices found
+2014-09-16 13:48:57,CUSBHandler,No Devices found
+2014-09-16 13:48:59,CUSBHandler,No Devices found
+2014-09-16 13:49:01,CUSBHandler,No Devices found
+2014-09-16 13:49:03,CUSBHandler,No Devices found
+2014-09-16 13:49:05,CUSBHandler,No Devices found
+2014-09-16 13:49:07,CUSBHandler,No Devices found
+2014-09-16 13:49:09,CUSBHandler,No Devices found

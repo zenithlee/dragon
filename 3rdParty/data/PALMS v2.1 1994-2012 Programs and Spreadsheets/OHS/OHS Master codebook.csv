@@ -1,0 +1,112 @@
+newid,id,newcode,newcode2,desc,Notes,var1994,var1995,var1996,var1997,var1998,var1999
+1,,UqNr,uqnr,Unique household identifier,,uqnr,hhid,hhid,hhid,uqnr,uqnr
+81,81,personid,personid,Unique individual identifier,,personid,personid,personid,personid,personid,personid
+96,96,personnr,personnr,Person number,Added in to make merging in person data easier for other data users,person,persno,respno,ppersno,personnr,personnr
+82,82,ea,ea,Enumeration Area code,"I create this variable from EA and MD vars in data in some years, in OHS 94 from number 1 and number 2 variables. ",eaunique,eaunique,eaunique,eaunique,eaunique,psunr
+,,eatype,eatype,"Type of EA (urban formal and informal, rural etc)",,,,eatype,,,
+83,83,dc,dc,Magisterial District,,,,,mdnumber,district,
+2,2,Province,province,Province,,prov,prov,prov,prov,prov,prov
+3,3,UrbRur,urbrur,Type of area,,urban,type,type ,type ,eatype,eatype 
+84,84,pweight,pweight,Stats SA person weight,,pweight,pweight,newpwgt1,perswgt,perswgt,weight
+85,85,hweight,hweight,Stats SA household weight,,,newwgt1,newhwgt,hhwgt,hhwgt,hhwgt
+86,86,ceweight,ceweight,"Cross Entropy weight, Branson",,cewgt,cewgt,cewgt,cewgt,cewgt,cewgt
+5,5,gender,gender,Gender (1=Male 2=Female),,gender,gender,eegender ,pgender ,b_gender,b_gender
+6,6,age,age,Age,,age ,age, personag,page,c_age ,c1_age 
+7,7,popgroup2,popgroup2,Population group,,,popgrp,popgroup,,,d_race 
+42,42,popgroup3,popgroup3,Population group OHS 98-97,,,,,prace,d_race ,
+73,73,popgroup4,popgroup4,Population group OHS 94,,pop_grp,,,,,
+8,8,whynotwork3,whynotwork3,Reason did not work during the past week ,,,,,wjobcat,q3_37not,q3_37not
+43,43,whynotwork4,whynotwork4,"Reason did not work during the past week: OHS 95, 96",,whynowk7,q333,rnotwork,,,
+,,,,,Need a consistent whynotwork var over all OHS and LFS,,,,,,
+9,9,willacceptwork,willacceptwork,Will accept suitable job if offered,,accept_j,q328,ejobsoff,waccjob ,q3_32aac,q3_29acc
+10,10,empstat1,empstat1,"Employment status, official","I created a version of this in 96. Metadata says var is there, but var is not so I used the code, which is there. Also created a version of it in 95 using workers, strictun and expandedun vars and sim vars in 94",status1,status1,status1,status1,status1,status1
+11,11,empstat2,empstat2,"Employment status, expanded","I created a version of this in 96. Metadata says var is there, but var is not so I used the code, which is there. Also created a version of it in 95 using workers, strictun and expandedun vars and sim vars in 94",status2,status2,status2,status2,status2,status2
+12,12,empsalary1,empsalary1,Total salary/pay in main job for employees,,,q316rand,,wsalamt,q3_19aem,q3_20aem
+75,75,empsalary2,empsalary2,"Total NET salary per month in employee main job. q3.13, OHS 94. Incl SSA imputes.",Question did not specify deductions up front!,salary_r,,,,,
+76,76,deduc1,deduc1,Was salary/pay total pay or take home pay?,,gros_pay,,,,,
+77,77,deducamt1,deducamt1,Deduction amount,,inc_dedc,,,,,
+13,13,empsalperiod1,empsalperiod1,"Salary time period (1=week, 2=month, 3=year) for employees",,,,,,, q3_20bem
+34,34,empsalperiod2,empsalperiod2,"Salary time period (1=day, 2=week, 3=month) for employees",,,,,wsalave,q3_19bem,
+59,59,empsalperiod3,empsalperiod3,"Salary time period (1=day, 2=week, 3=month, 4=year) for employees",,income_i,q316int,,,,
+14,14,empsalcat1,empsalcat1,"Total salary at main job: category, for employees, OHS 96-99",,,,eeincome,whowpaid,q3_19cem, q3_20cem
+60,60,empsalcat2,empsalcat2,"Total salary at main job: category, for employees, OHS 95",,, q316incg,,,,
+74,74,empsalcat3,empsalcat3,"Total MONTHLY NET salary at main job: category, for employees, OHS 94. As released by SSA, incl imputes.",,salary_i,,,,,
+15,15,selfempincome1,selfempincome1,Total income in main job for self-employed,,,q322rand,,wservsa1, q3_26ase,q3_26aem
+16,16,selfempincperiod1,selfempincperiod1,"Income time period (1=week, 2=month, 3=year) for self-employed",,,,,wservsa2, q3_26bse, q3_26bse
+61,61,selfempincperiod2,selfempincperiod2,"Income time period  (1=day, 2=week, 3=month, 4=year)  for self-employed",,inc_int,q322int,,,,
+109,109,selfempincome2,selfempincome2,"Self-employment income q 3.19, calc PER MONTH by SSA, OHS 94. Incl imputes.",,emp_rand,,,,,
+17,17,selfempinccat1,selfempinccat1,"Total income at main job: category, for self-employed 99 OHS",,,,,,, q3_26cse
+35,35,selfempinccat2,selfempinccat2,"Total income at main job: category, for self-employed 96-98 OHS",,,,ebussinc,wservpai, q3_26cse,
+78,78,selfempinccat4,selfempinccat4,"Total MONTHLY income at main job: category, for self-employed 94 OHS",,emp_code,,,,,
+62,62,selfempinccat3,selfempinccat3,"Total income at main job: category, for self-employed 95 OHS",,,q322code,,,,
+36,36,selfempexpgoods,selfempexpgoods,"Expenses on goods in self-employment, OHS 96-98",,,,eeegoods , wspgds, q3_27ago ,
+37,37,selfempexprenum,selfempexprenum,"Expenses on renumeration in self-employment, OHS 96-98",,,,eeewages , wspsal,q3_27bwa ,
+38,38,selfempexpoth,selfempexpoth,"Other Expenses in self-employment, OHS 96-98",,,,eeothers, wspoth,q3_27cot,
+79,79,selfempexpall,selfempexpall,"Total Expenses in self-employment, OHS 94 and 95",,expenses,q323,,,,
+30,30,educprimsec,educprimsec,Highest level of primary and secondary education OHS 97-98,,,,,phighsch, q1_10hig,
+31,31,educter1,educter1,Highest tertiary education level OHS 98,,,,,, q1_12bhi,
+44,44,educter2,educter2,Highest tertiary education level OHS 97,,,,,phghqual,,
+18,18,educhigh3,educhigh3,"Highest level of education, OHS 99",,,,,,,q1_4ahig 
+51,51,educhigh4,educhigh4,"Highest level of education, OHS 96",,,,higheted,,,
+63,63,educhigh5,educhigh5,"Highest level of education, OHS 95",,,q216,,,,
+80,80,educhigh6,educhigh6,"Highest level of education, OHS 94",,level_ed,,,,,
+87,87,enrollment3,enrollment3,Enrolled in educational institution,,scholar,q211,attschoo,pinstit,q1_11stu,q1_10stu
+88,88,enrolled,enrolled,Educational Institution currently attending,,,,,,,q1_9edu
+19,19,JobOccupC1,jobocccode1,"Occupation of main job, short code","I created a version of this for 1996, the data has a bad version (occp). Also created for 94, 95",occup,occup,occup,,occup,occup
+45,45,JobOccupC2,jobocccode2,"Occupation of main job, short code, OHS 97",,,,,occup,,
+102,102,occupation1,occupation1,"Occupation for employees, 4 digit code",,,,ejobdesc,wjobtyp,q3_15occ,q3_10occ
+103,103,occupation2,occupation2,"Occupation for self-employed, 4 digit code",,,,descwork,wservtyp,q3_22emp,q3_23emp
+106,106,occupation3,occupation3,"Occupation of employee for OHS 94 and 95, 3 digit code",,occupat,q315,,,,
+107,108,occupation4,occupation4,"Occupation of self-employed for OHS 94 and 95, 3 digit code",,occ_empl,q319occ,,,,
+20,20,JobIndustryC1,jobindcode1,"Industry of employment, short code","I created a version of this for 1996, the data has a bad version. Also created for 94, 95",indust,indust,indust,,indust,indust
+46,46,JobIndustryC2,jobindcode2,"Industry of employment, short code, OHS 97",,,,,indust,,
+,,,,,Need to create indust and occup  consistent with other surveys for 97. DONE!,,,,,,
+104,104,industry1,industry1,"Industry for employees, 3 digit code",,,,actemplo,wfrmact,q3_14fir,q3_9firm
+105,105,industry2,industry2,"Industry for self-employed, 3 digit code",,,,eeindust,wservind,q3_21emp,q3_22emp
+94,94,employer1,employer1,Who does individual work for? (OHS only),,wk_statu,q39,eworkwho,wwhowrk,q3_11wrk,q3_6wrkf
+95,95,hrslstwk,hrslstwk,Hours worked in the last 7 days,,hours, q33,tothours ,whours, q3_5ahou, q3_4ahou
+21,21,DwellTypeMain1,dwelltype1,Type of main dwelling,,,,,hhdwtyp,q9_2amai,q6_1amai
+52,52,DwellTypeMain2,dwelltype2,"Type of main dwelling, OHS 95-96",,,dwell,typedwel,,,
+66,66,DwellTypeMain3,dwelltype3,"Type of main dwelling, OHS 94",,type_dwe,,,,,
+22,22,toimaintype1,toimaintype1,Main toilet type ,Created for OHS 97,,,,toimaintype1,q9_23toi,q6_12toi
+47,47,toindw,toindw,Main toilet type in dwelling,,,sani_dwe,eeindwel,hhtoildw ,,
+48,48,toionsite1,toionsite1,Main toilet type on-site,,,,,hhtonsit,,
+53,53,toionsite2,toionsite2,"Main toilet type on-site, OHS 96",,,,eeonsite,,,
+64,64,toionsite3,toionsite3,"Main toilet type on-site, OHS 95",,,sani_si,,,,
+49,49,toiofsit1,toiofsit1,Main toilet type off site,,,,,hhtofsit,,
+54,54,toiofsit2,toiofsit2,"Main toilet type off site, OHS 96",,,,eoffsite,,,
+65,65,toiofsit3,toiofsit3,"Main toilet type on-site, OHS 95",,,sani_osi,,,,
+67,67,toimaintype2,toimaintype2,"Main toilet type, OHS 94",,sanit,,,,,
+50,50,,toimaintype,"Main toilet type, created for consistency across all waves",Need to still do!,,,,,,
+23,23,WtrSource3,watersource3,Household's main source of water ,,,,mainwate,hhwater,q9_13wat,q6_7wate
+68,68,watersource4,watersource4,"Household's main source of water, OHS 95 ",,,wsou_mdr,,,,
+69,69,watersource5,watersource5,"Household's main source of water, OHS 94",,sourwatr,,,,,
+24,24,FuelCook1,fuelcook1,Main source of energy/fuel for cooking OHS 99,,,,,,,q6_10aco
+32,32,FuelCook2,fuelcook2,Main source of energy/fuel for cooking OHS98-97,,,,,hhcook,q9_17aco,
+55,55,FuelCook3,fuelcook3,Main source of energy/fuel for cooking OHS 95-96,Created for OHS 95 out of several variables,,fuelcook3,ecooking,,,
+70,70,FuelCook4,fuelcook4,Main source of energy/fuel for cooking: Consistent across OHSs,Haven't yet created but code is in OHS master value labels,,,,,,
+25,25,FuelHeat1,fuelheat1,Main source of energy/fuel for heating OHS 99,,,,,,, q6_10bhe
+33,33,FuelHeat2,fuelheat2,Main source of energy/fuel for heating OHS 98-97,,,,,hhheat, q9_17bhe,
+56,56,FuelHeat3,fuelheat3,Main source of energy/fuel for heating OHS 95-96,Created for OHS 95 out of several variables,,fuelheat3,eheating,,,
+71,71,FuelHeat4,fuelheat4,Main source of energy/fuel for heating: Consistent across OHSs,Haven't yet created but code is in OHS master value labels,,,,,,
+26,26,FuelLight1,fuellight1,Main source of energy/fuel for lighting OHS 99,,,,,,, q6_10cli
+34,34,FuelLight2,fuellight2,Main source of energy/fuel for lighting OHS 98-97,,,,,hhlight, q9_17cli,
+57,57,FuelLight3,fuellight3,Main source of energy/fuel for lighting OHS 96,Created for OHS 95 out of several variables,,fuellight3,lighting,,,
+72,72,FuelLight4,fuellight4,Main source of energy/fuel for lighting: Consistent across OHSs,Haven't yet created but code is in OHS master value labels,,,,,,
+27,27,marstat3,marstat3,"Marital Status: OHS 99, 98",,,,,,q1_5mari,q1_2mari
+39,39,marstat4,marstat4,Marital Status: OHS 97-94,,marital,q25,maritals,pmarital,,
+40,40,marstat1,marstat1,Marital Status: Consistent over all waves and with LFS,Still need to do!,,,,,,
+28,28,JobUnion,jobunion,Member of trade union,,trade_un,q313,memunion,wtradeu,q3_17tra,q3_18tra 
+41,41,searchhow2,searchhow2,Whether and how an individual has looked for work (first action),,,,,wwhfnd1,q3_34awh,q3_32awh
+58,58,searchhow3,searchhow3,"Whether and how an individual has looked for work (first action) OHS 95, 96",,method1,q330a,findwork,,,
+89,89,incpension,incpension,Individual Receives OA Pension,,,,,wpnsgov,q4_1agov,q4_1govp
+90,90,incdisabgrnt ,incdisabgrnt ,Individual receives govt disability grant,,,,,wdiss,q4_3adis,q4_3diss
+91,91,inctstmaint,inctstmaint,Individual receives child support/State maintenance grant,,,,,wmntnce,q4_5asta,q4_5stat
+92,92,incdepgrnt ,incdepgrnt ,Individual receives care dependency grant,,,,,wcare,q4_7adep,q4_7depe
+93,93,incfostcrgrnt,incfostcrgrnt,Individual receives foster care grant,,,,,wfoster,q4_8afos,q4_8fost
+97,97,selfformalreg,selfformalreg,Individual considers the business they operate formal (OHS only),,registra, q320, eworkreg,wservsct,q3_23bus,q3_24bus
+99,99,selfvatreg,selfvatreg,Business operated by the individual is registered for VAT (OHS only),,vat, q321, vatnumbe,wvatno, q3_24vat, q3_25vat
+98,98,wageformalreg,wageformalreg,Employee considers the enterprise they work for formal (OHS only),,,,,wemplsec,q3_18emp,q3_19emp
+100,100,selfpaidemp,selfpaidemp,Number of paid employees in own enterprise (OHS only),,tot_paid,q324tpd ,eperpaid,wpplempl,q3_28bnr,q3_27bnr
+101,101,selfunpaidemp,selfunpaidemp,Number of unpaid employees in own enterprise (OHS only),,tot_unpd,q324tunp,eeunpaid,wunpempl,q3_28anr,q3_27anr
+,108,,,,,,,,,,

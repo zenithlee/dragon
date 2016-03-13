@@ -1,0 +1,53 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-12436
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1805 outsize=1738 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=11047 outsize=940 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DUMMY ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=11047 outsize=1291 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DUMMY ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6611 outsize=696 kw=POINT DUMMY ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6611 outsize=1361 kw=POINT DUMMY ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6495 outsize=543 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6495 outsize=547 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=9920 outsize=702 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DUMMY HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=9920 outsize=575 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DUMMY HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=1125 outsize=1482 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4898 outsize=969 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4898 outsize=1157 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2718 outsize=780 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2718 outsize=1217 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2659 outsize=509 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2659 outsize=384 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4395 outsize=639 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4395 outsize=381 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=8716 outsize=989 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=7517 outsize=437 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=7517 outsize=1544 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=7511 outsize=437 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=7511 outsize=1465 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=7516 outsize=437 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=7516 outsize=1470 kw=POINT SHADOWS_OFF ok=1

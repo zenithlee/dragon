@@ -1,0 +1,707 @@
+id,newcode,newcode2,delete,ValLabNum,ValLabel,var1994_ALT,var1994,var1995,var1996,var1997,var1998,var1999
+1,UqNr,uqnr,,,,,,,,hhid,,UqNr
+2,Province,province,,1,Western Cape,,prov,prov,prov,prov,prov,prov
+2,Province,province,,2,Eastern Cape,,prov,prov,prov,prov,prov,prov
+2,Province,province,,3,Northern Cape,,prov,prov,prov,prov,prov,prov
+2,Province,province,,4,Free State,,prov,prov,prov,prov,prov,prov
+2,Province,province,,5,KwaZulu-Natal,,prov,prov,prov,prov,prov,prov
+2,Province,province,,6,North West,,prov,prov,prov,prov,prov,prov
+2,Province,province,,7,Gauteng,,prov,prov,prov,prov,prov,prov
+2,Province,province,,8,Mpumalanga,,prov,prov,prov,prov,prov,prov
+2,Province,province,,9,Limpopo (Northern Province),,prov,prov,prov,prov,prov,prov
+3,,urbrur,,1,Urban,,urban,type,type,type ,eatype ,eatype 
+3,,urbrur,,2,Non-urban (Rural),,urban,type,type,type ,eatype ,eatype 
+5,gender,gender,,1,Male,,,gender,eegender ,pgender,b_gender,b_gender
+5,gender,gender,,2,Female,,,gender,eegender ,pgender,b_gender,b_gender
+6,age,age,,,,,,,,,,
+7,popgroup2,popgroup2,,1,African/Black,,,popgrp,popgroup,,,d_race 
+7,popgroup2,popgroup2,,2,Coloured,,,popgrp,popgroup,,,d_race 
+7,popgroup2,popgroup2,,3,Indian/Asian,,,popgrp,popgroup,,,d_race 
+7,popgroup2,popgroup2,,4,White,,,popgrp,popgroup,,,d_race 
+7,popgroup2,popgroup2,,5,Other,,,,,,,d_race 
+7,popgroup2,popgroup2,,9,Unspecified,,,,,,,d_race 
+42,popgroup3,popgroup3,,1,African/Black,,,,,prace,d_race ,
+42,popgroup3,popgroup3,,2,Coloured,,,,,prace,d_race ,
+42,popgroup3,popgroup3,,3,Indian/Asian,,,,,prace,d_race ,
+42,popgroup3,popgroup3,,4,White,,,,,prace,d_race ,
+42,popgroup3,popgroup3,,5,Griqua,,,,,prace,d_race ,
+42,popgroup3,popgroup3,,6,Other,,,,,prace,d_race ,
+73,popgroup4,popgroup4,,1,Asian,,popgrp,,,,,
+73,popgroup4,popgroup4,,2,Coloured,,popgrp,,,,,
+73,popgroup4,popgroup4,,3,White,,popgrp,,,,,
+73,popgroup4,popgroup4,,4,Black,,popgrp,,,,,
+8,whynotwork3,whynotwork3,,1,Lack of skills or qualifications for available jobs,,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,2,"Has found a job, but is only starting at a definite date in the future",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,3,"Scholar or student, prefers not to work",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,4,"Housewife/homemaker, prefers not to work",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,5,Retired and prefers not to seek formal work,,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,6,"Illness, invalid, disabled or unable to work (handicapped)",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,7,Too young or too old to work,,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,8,"Seasonal worker, e.g. fruit picker, wool-shearer",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,9,"Cannot find suitable work (salary, location, conditions not satisfactory)",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,10,"Contract worker, e.g. mine worker resting according to contract",,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,11,Other reason,,,,,wjobcat,q3_37not,q3_37not
+8,whynotwork3,whynotwork3,,8888,Not Applicable,,,,,,,q3_37not
+43,whynotwork4,whynotwork4,,0,Missing/Not applicable,whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,1,Lack of skills or qualifications for available jobs,whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,2,"Cannot find suitable work (salary, location, conditions not satisfactory)",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,3,"Has found a job, but is only starting at a definite date in the future",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,4,"Scholar or student, prefers not to work",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,5,"Housewife/homemaker, prefers not to work",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,6,Retired and prefers not to seek formal work,whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,7,"Illness, invalid, disabled or unable to work (handicapped)",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,8,Too young or too old to work,whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,9,"Seasonal worker, e.g. fruit picker, wool-shearer",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,10,"Contract worker, e.g. mine worker resting according to contract",whynowk7,q335,q333,rnotwork,,,
+43,whynotwork4,whynotwork4,,11,Other reason,whynowk7,q335,q333,rnotwork,,,
+9,WillAcceptWork,willacceptwork,,0,Missing/Not applicable,accept_j,q326,q328,ejobsoff,waccjob ,,
+9,WillAcceptWork,willacceptwork,,1,Yes,accept_j,q326,q328,ejobsoff,waccjob ,q3_32aac,q3_29acc
+9,WillAcceptWork,willacceptwork,,2,No,accept_j,q326,q328,ejobsoff,waccjob ,q3_32aac,q3_29acc
+9,WillAcceptWork,willacceptwork,,3,Don't know,,,,,,,q3_29acc
+9,WillAcceptWork,willacceptwork,,8888,Not Applicable,,,,,,,q3_29acc
+10,EmpStatus1,empstat1,,0,Not economically active,status1,status1,status1,status1,status1,status1,status1
+10,EmpStatus1,empstat1,,1,Employed,status1,status1,status1,status1,status1,status1,status1
+10,EmpStatus1,empstat1,,2,Unemployed,status1,status1,status1,status1,status1,status1,status1
+11,EmpStatus2,empstat2,,0,Not economically active,status2,status2,status2,status2,status2,status2,status2
+11,EmpStatus2,empstat2,,1,Employed,status2,status2,status2,status2,status2,status2,status2
+11,EmpStatus2,empstat2,,2,Unemployed,status2,status2,status2,status2,status2,status2,status2
+12,empsalary1,empsalary1,,888888,Not applicable,,,,,,,q3_20aem
+76,deduc1,deduc1,,0,Not applicable,,q314a,,,,,
+76,deduc1,deduc1,,1,Total salary/pay before deductions,,q314a,,,,,
+76,deduc1,deduc1,,2,Take home pay,,q314a,,,,,
+13,empsalperiod1,empsalperiod1,,1,Per week,,,,,,, q3_20bem
+13,empsalperiod1,empsalperiod1,,2,Per month,,,,,,, q3_20bem
+13,empsalperiod1,empsalperiod1,,3,Annually,,,,,,, q3_20bem
+13,empsalperiod1,empsalperiod1,,8888,Not applicable,,,,,,, q3_20bem
+34,empsalperiod2,empsalperiod2,,1,Per day,,,,,wsalave,q3_19bem,
+34,empsalperiod2,empsalperiod2,,2,Per week,,,,,wsalave,q3_19bem,
+34,empsalperiod2,empsalperiod2,,3,Per month,,,,,wsalave,q3_19bem,
+59,empsalperiod3,empsalperiod3,,0,Missing,income_i,q313c,q316int,,,,
+59,empsalperiod3,empsalperiod3,,1,Per day,income_i,q313c,q316int,,,,
+59,empsalperiod3,empsalperiod3,,2,Per week,income_i,q313c,q316int,,,,
+59,empsalperiod3,empsalperiod3,,3,Per month,income_i,q313c,q316int,,,,
+59,empsalperiod3,empsalperiod3,,4,Per year,income_i,q313c,q316int,,,,
+14,empsalcat1,empsalcat1,,0,Missing,,,,eeincome,,,
+14,empsalcat1,empsalcat1,,1,None,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,2,R 1 - R 2 400 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,3,R 2 401 - R 6 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,4,R 6 001 - R 12 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,5,R 12 001 - R 18 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,6,R 18 001 - R 30 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,7,R 30 001 - R 42 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,8,R 42 001 - R 54 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,9,R 54 001 - R 72 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,10,R 72 001 - R 96 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,11,R 96 001 - R 132 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,12,R 132 001 - R 192 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,13,R 192 001 - R 360 000 per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,14,R 360 001 or more per annum,,,,eeincome,whowpaid,q3_19cem, q3_20cem
+14,empsalcat1,empsalcat1,,15,Don't know,,,,,,, q3_20cem
+14,empsalcat1,empsalcat1,,8888,Not applicable,,,,,,, q3_20cem
+60,empsalcat2,empsalcat2,,0,Missing/Not applicable,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,1,No income,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,2,R1 - R999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,3,R1 000 - R1 249,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,4,R1 250 - R1 499,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,5,R1 500 - R1 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,6,R2 000 - R2 499,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,7,R2 500 - R2 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,8,R3 000 - R3 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,9,R4 000 - R5 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,10,R6 000 - R7 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,11,R8 000 - R9 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,12,R10 000 - R12 499,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,13,R12 500 - R14 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,14,R15 000 - R19 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,15,R20 000 - R24 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,16,R25 000 - R29 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,17,R30 000 - R39 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,18,R40 000 - R59 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,19,R60 000 - R79 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,20,R80 000 - R99 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,21,R100 000 - R124 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,22,R125 000 - R149 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,23,R150 000 - R199 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,24,R200 000 - R249 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,25,R250 000 - R299 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,26,R300 000 - R399 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,27,R400 000 - R499 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,28,R500 000 - R599 999,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,29,R600 000 and over,,, q316incg,,,,
+60,empsalcat2,empsalcat2,,30,Unspecified,,, q316incg,,,,
+74,empsalcat3,empsalcat3,,0,Not applicable,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,1,None,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,2,R1 - R99,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,3,R100 - R199,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,4,R200 - R499,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,5,R500 - R999,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,6,R1 000 - R1 999,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,7,R2 000 - R3 999,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,8,R4 000 - R7 999,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,9,R8 000 - R15 999,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,10,R16 000 - R32 999,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,11,R33 000+,salary_i,q313b,,,,,
+74,empsalcat3,empsalcat3,,12,Unspecified,salary_i,q313b,,,,,
+15,selfempincome,selfempincome,,888888,Not applicable,,,,,,,q3_26aem
+16,selfempincperiod1,selfempincperiod1,,0,?,,,,,wservsa2,,
+16,selfempincperiod1,selfempincperiod1,,1,Per week,,,,,wservsa2, q3_26bse, q3_26bse
+16,selfempincperiod1,selfempincperiod1,,2,Per month,,,,,wservsa2, q3_26bse, q3_26bse
+16,selfempincperiod1,selfempincperiod1,,3,Annually,,,,,wservsa2, q3_26bse, q3_26bse
+16,selfempincperiod1,selfempincperiod1,,8888,Not applicable,,,,,,, q3_26bse
+61,selfempincperiod2,selfempincperiod2,,0,Not applicable,inc_int,,,,,,
+61,selfempincperiod2,selfempincperiod2,,1,Per day,inc_int,q319c,q322int,,,,
+61,selfempincperiod2,selfempincperiod2,,2,Per week,inc_int,q319c,q322int,,,,
+61,selfempincperiod2,selfempincperiod2,,3,Per month,inc_int,q319c,q322int,,,,
+61,selfempincperiod2,selfempincperiod2,,4,Per year,inc_int,q319c,q322int,,,,
+17,selfempinccat1,selfempinccat1,,1,None,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,2,R 1 - R 2 400 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,3,R 2 401 - R 6 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,4,R 6 001 - R 12 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,5,R 12 001 - R 18 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,6,R 18 001 - R 30 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,7,R 30 001 - R 42 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,8,R 42 001 - R 54 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,9,R 54 001 - R 72 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,10,R 72 001 - R 96 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,11,R 96 001 - R 132 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,12,R 132 001 - R 192 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,13,R 192 001 - R 360 000 per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,14,R 360 001 or more per annum,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,15,Don't know,,,,,,, q3_26cse
+17,selfempinccat1,selfempinccat1,,8888,Not applicable,,,,,,, q3_26cse
+35,selfempinccat2,selfempinccat2,,0,Missing,,,,ebussinc,,,
+35,selfempinccat2,selfempinccat2,,1,None,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,2,R 1 - R 2 400 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,3,R 2 401 - R 6 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,4,R 6 001 - R 12 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,5,R 12 001 - R 18 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,6,R 18 001 - R 30 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,7,R 30 001 - R 42 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,8,R 42 001 - R 54 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,9,R 54 001 - R 72 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,10,R 72 001 - R 96 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,11,R 96 001 - R 132 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,12,R 132 001 - R 192 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,13,R 192 001 - R 360 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,14, R 360 001-R540 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,15, R540 001-R720 000 per annum,,,,ebussinc,wservpai,q3_19cem,
+35,selfempinccat2,selfempinccat2,,16,R720 001 or more per annum,,,,ebussinc,wservpai,q3_19cem,
+62,selfempinccat3,selfempinccat3,,0,Missing/Not applicable,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,1,No income,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,2,R1 - R999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,3,R1 000 - R1 249,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,4,R1 250 - R1 499,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,5,R1 500 - R1 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,6,R2 000 - R2 499,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,7,R2 500 - R2 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,8,R3 000 - R3 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,9,R4 000 - R5 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,10,R6 000 - R7 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,11,R8 000 - R9 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,12,R10 000 - R12 499,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,13,R12 500 - R14 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,14,R15 000 - R19 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,15,R20 000 - R24 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,16,R25 000 - R29 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,17,R30 000 - R39 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,18,R40 000 - R59 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,19,R60 000 - R79 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,20,R80 000 - R99 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,21,R100 000 - R124 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,22,R125 000 - R149 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,23,R150 000 - R199 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,24,R200 000 - R249 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,25,R250 000 - R299 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,26,R300 000 - R399 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,27,R400 000 - R499 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,28,R500 000 - R599 999,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,29,R600 000 and over,,,q322code,,,,
+62,selfempinccat3,selfempinccat3,,30,Unspecified,,,q322code,,,,
+78,selfempinccat4,selfempinccat4,,1,None,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,2,R1 - R99,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,3,R100 - R199,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,4,R200 - R499,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,5,R500 - R999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,6,R1 000 - R1 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,7,R2 000 - R3 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,8,R4 000 - R7 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,9,R8 000 - R15 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,10,R16 000 - R31 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,11,R32 000- R63 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,12,R64 000- R127 999,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,13,R128 000+,,emp_code,,,,,
+78,selfempinccat4,selfempinccat4,,14,Unspecified,,emp_code,,,,,
+30,educprimsec,educprimsec,,0,No schooling,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,1,Grade R/0,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,2,Sub A/Grade 1,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,3,Sub B/Grade 2,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,4,Grade 3/Standard 1/Level 1,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,5,Grade 4/Standard 2/Level 2,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,6,Grade 5/Standard 3/Level 3,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,7,Grade 6/Standard 4/Level 4,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,8,Grade 7/Standard 5/Level 5,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,9,Grade 8/Standard 6/Form 1/Level 6/Form 1,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,10,Grade 9/Standard 7/Level 7/Form 2,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,11,Grade 10/Standard 8/Form 3/NTC 1/RCE Higher,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,12,Grade 11/Standard 9/O levels/Form 4,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,13,Grade 12/Standard 10/Form 5/Matric/A levels,,,,,phighsch, q1_10hig,
+30,educprimsec,educprimsec,,99,Missing,,,,,phighsch,,
+31,educter1,educter1,,1,Certificate,,,,,,q1_12bhi,
+31,educter1,educter1,,2,Diploma only,,,,,,q1_12bhi,
+31,educter1,educter1,,3,Bachelor’s,,,,,,q1_12bhi,
+31,educter1,educter1,,4,Bachelor’s + Diploma,,,,,,q1_12bhi,
+31,educter1,educter1,,5,Bachelor’s + Honours,,,,,,q1_12bhi,
+31,educter1,educter1,,6,Master’s,,,,,,q1_12bhi,
+31,educter1,educter1,,7,Doctor’s,,,,,,q1_12bhi,
+31,educter1,educter1,,8,Other,,,,,,q1_12bhi,
+44,educter2,educter2,,1,Certificate+diploma with less than Grade 12,,,,,phghqual,,
+44,educter2,educter2,,2,Certificate+diploma with  Grade 12,,,,,phghqual,,
+44,educter2,educter2,,3,Bachelor’s,,,,,phghqual,,
+44,educter2,educter2,,4,Bachelor’s + Diploma,,,,,phghqual,,
+44,educter2,educter2,,5,Bachelor’s + Honours,,,,,phghqual,,
+44,educter2,educter2,,6,Master’s,,,,,phghqual,,
+44,educter2,educter2,,7,Doctor’s,,,,,phghqual,,
+44,educter2,educter2,,8,Other,,,,,phghqual,,
+44,educter2,educter2,,9,Missing,,,,,phghqual,,
+18,educhigh3,educhigh3,,0,No schooling,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,1,Grade R/0,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,2,Sub A/Grade 1,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,3,Sub B/Grade 2,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,4,Grade 3/Standard 1,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,5,Grade 4/Standard 2,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,6,Grade 5/Standard 3,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,7,Grade 6/Standard 4,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,8,Grade 7/Standard 5,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,9,Grade 8/Standard 6/Form 1,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,10,Grade 9/Standard 7/Form 2,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,11,Grade 10/Standard 8/Form 3,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,12,Grade 11/Standard 9/Form 4,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,13,Grade 12/Standard 10/Form 5/Matric,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,14,NTC l,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,15,NTC II,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,16,NTC III,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,17,Diploma/Certificate with less than Grade 12/Std 10,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,18,Diploma/Certificate with Grade 12/Std 10,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,19,Degree,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,20,Postgraduate degree or diploma,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,21,Other,,,,,,,q1_4ahig 
+18,educhigh3,educhigh3,,22,Don't know,,,,,,,q1_4ahig 
+51,educhigh4,educhigh4,,0,No schooling,,,,higheted,,,
+51,educhigh4,educhigh4,,1,Sub A/Grade 1,,,,higheted,,,
+51,educhigh4,educhigh4,,2,Sub B/Grade 2,,,,higheted,,,
+51,educhigh4,educhigh4,,3,Grade 3/Standard 1,,,,higheted,,,
+51,educhigh4,educhigh4,,4,Grade 4/Standard 2,,,,higheted,,,
+51,educhigh4,educhigh4,,5,Grade 5/Standard 3,,,,higheted,,,
+51,educhigh4,educhigh4,,6,Grade 6/Standard 4,,,,higheted,,,
+51,educhigh4,educhigh4,,7,Grade 7/Standard 5,,,,higheted,,,
+51,educhigh4,educhigh4,,8,Grade 8/Standard 6/Form 1,,,,higheted,,,
+51,educhigh4,educhigh4,,9,Grade 9/Standard 7/Form 2,,,,higheted,,,
+51,educhigh4,educhigh4,,10,Grade 10/Standard 8/Form 3,,,,higheted,,,
+51,educhigh4,educhigh4,,11,Grade 11/Standard 9/Form 4,,,,higheted,,,
+51,educhigh4,educhigh4,,12,Grade 12/Standard 10/Form 5/Matric,,,,higheted,,,
+51,educhigh4,educhigh4,,13,NTC l,,,,higheted,,,
+51,educhigh4,educhigh4,,14,NTC II,,,,higheted,,,
+51,educhigh4,educhigh4,,15,NTC III,,,,higheted,,,
+51,educhigh4,educhigh4,,16,Diploma/Certificate with less than Grade 12/Std 10,,,,higheted,,,
+51,educhigh4,educhigh4,,17,Diploma/Certificate with Grade 12/Std 10,,,,higheted,,,
+51,educhigh4,educhigh4,,18,Degree,,,,higheted,,,
+51,educhigh4,educhigh4,,19,Other,,,,higheted,,,
+63,educhigh5,educhigh5,,0,No schooling,,,q216,,,,
+63,educhigh5,educhigh5,,1,Sub A/sub B grade 1/grade 2/Std 1,,,q216,,,,
+63,educhigh5,educhigh5,,2,Standard 2,,,q216,,,,
+63,educhigh5,educhigh5,,3,Standard 3,,,q216,,,,
+63,educhigh5,educhigh5,,4,Standard 4,,,q216,,,,
+63,educhigh5,educhigh5,,5,Standard 5,,,q216,,,,
+63,educhigh5,educhigh5,,6,Standard 6,,,q216,,,,
+63,educhigh5,educhigh5,,7,Standard 7,,,q216,,,,
+63,educhigh5,educhigh5,,8,Standard 8/NTC I,,,q216,,,,
+63,educhigh5,educhigh5,,9,Standard 9/NTC II,,,q216,,,,
+63,educhigh5,educhigh5,,10,Standard 10/NTC III,,,q216,,,,
+63,educhigh5,educhigh5,,11,Diploma/Certificate with Standard 9 or lower,,,q216,,,,
+63,educhigh5,educhigh5,,12,Diploma/Certificate with Std 10,,,q216,,,,
+63,educhigh5,educhigh5,,13,Degree,,,q216,,,,
+63,educhigh5,educhigh5,,14,Other,,,q216,,,,
+63,educhigh5,educhigh5,,15,Unspecified,,,q216,,,,
+80,educhigh6,educhigh6,,0,No schooling,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,1,Sub A/sub B grade 1/grade 2/Std 1,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,2,Standard 2,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,3,Standard 3,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,4,Standard 4,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,5,Standard 5,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,6,Standard 6,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,7,Standard 7,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,8,Standard 8,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,9,Standard 9,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,10,Standard 10,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,11,Diploma/Certificate with Standard 9 or lower,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,12,Diploma/Certificate with Std 10,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,13,Degree,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,14,Other,level_ed,q27,,,,,
+80,educhigh6,educhigh6,,15,Unspecified,level_ed,q27,,,,,
+87,enrollment3,enrollment3,,0,,,,,attschoo,pinstit,,
+87,enrollment3,enrollment3,,1,Full-time,scholar,q26,q211,attschoo,pinstit,q1_11stu,q1_10stu
+87,enrollment3,enrollment3,,2,Part-time,scholar,q26,q211,attschoo,pinstit,q1_11stu,q1_10stu
+87,enrollment3,enrollment3,,3,Not enrolled,scholar,q26,q211,attschoo,pinstit,q1_11stu,
+87,enrollment3,enrollment3,,8888,Not applicable,,,,,,,q1_10stu
+88,enrolled,enrolled,,1,School,,,,,,,
+88,enrolled,enrolled,,2,University,,,,,,,
+88,enrolled,enrolled,,3,Technikon,,,,,,,
+88,enrolled,enrolled,,4,College,,,,,,,
+88,enrolled,enrolled,,5,Adult basic education and training/literacy classes,,,,,,,
+88,enrolled,enrolled,,6,Other adult education classes,,,,,,,
+88,enrolled,enrolled,,7,Other than any of the above,,,,,,,
+88,enrolled,enrolled,,8,None,,,,,,,
+19,JobOccupC1,jobocccode1,,1,Managers,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,2,Professionals,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,3,"Semi-professionals, Technicians",occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,4,Clerks,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,5,Sales persons and skilled service workers,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,6,Skilled agricultural  workers,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,7,Artisans,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,8,Operators,occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,9,"Elementary, routine workers",occup,occup,occup,occup,,occup,occup
+19,JobOccupC1,jobocccode1,,11,Domestic workers,occup,occup,occup,occup,,occup,occup
+45,JobOccupC2,jobocccode2,,0,"Unspecified, missing or not applicable",,,,,occup,,
+45,JobOccupC2,jobocccode2,,1,Managers,,,,,occup,,
+45,JobOccupC2,jobocccode2,,2,Professionals,,,,,occup,,
+45,JobOccupC2,jobocccode2,,3,"Semi-professionals, Technicians",,,,,occup,,
+45,JobOccupC2,jobocccode2,,4,Clerks,,,,,occup,,
+45,JobOccupC2,jobocccode2,,5,Sales persons and skilled service workers,,,,,occup,,
+45,JobOccupC2,jobocccode2,,6,Skilled agricultural  workers,,,,,occup,,
+45,JobOccupC2,jobocccode2,,7,Artisans,,,,,occup,,
+45,JobOccupC2,jobocccode2,,8,Operators,,,,,occup,,
+45,JobOccupC2,jobocccode2,,9,"Elementary, routine workers",,,,,occup,,
+45,JobOccupC2,jobocccode2,,10,Domestic workers,,,,,occup,,
+20,JobIndustryC1,jobindcode1,,1,"Agriculture, hunting, forestry and fishing",indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,2,Mining and quarrying,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,3,Manufacturing,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,4,Utilities,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,5,Construction,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,6,Trade,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,7,Transport,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,8,Finance,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,9,Services,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,10,Domestic Services,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,11,Extra-territorial organisations and foreign governments,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,12,Activities not adequately defined,indust,indust,indust,indust,,indust,indust
+20,JobIndustryC1,jobindcode1,,66,?,,,,,,indust,
+20,JobIndustryC1,jobindcode1,,90,Not adequately defined,,,,,,indust,indust
+46,JobIndustryC2,jobindcode2,,0,"Unspecified, Missing or Mining",,,,,indust,,
+46,JobIndustryC2,jobindcode2,,1,"Agriculture, hunting, forestry and fishing",,,,,indust,,
+46,JobIndustryC2,jobindcode2,,2,Manufacturing,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,3,Utilities,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,4,Construction,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,5,Trade,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,6,Transport,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,7,Finance,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,8,Services,,,,,indust,,
+46,JobIndustryC2,jobindcode2,,9,Domestic Services,,,,,indust,,
+94,employer1,employer1,,0,Not applicable /Missing,wk_statu, q38,q39,eworkwho,,,
+94,employer1,employer1,,1,Someone else,wk_statu, q38,q39,eworkwho,wwhowrk,q3_11wrk,q3_6wrkf
+94,employer1,employer1,,2,Him-/herself,wk_statu, q38,q39,eworkwho,wwhowrk,q3_11wrk,q3_6wrkf
+94,employer1,employer1,,3,Someone else and him-/herself,wk_statu, q38,q39,eworkwho,wwhowrk,q3_11wrk,q3_6wrkf
+94,employer1,employer1,,8888,Not applicable,,,,,,,q3_6wrkf
+21,DwellTypeMain1,dwelltype1,,0,Missing,,,,,hhdwtyp,,
+21,DwellTypeMain1,dwelltype1,,1,Dwelling/house or brick structure on a separate stand or yard or on farm,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,2,Traditional dwelling/hut/structure made of traditional materials,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,3,Flat or apartment in a block of flats,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,4,"Town/cluster/semi-detached house (simplex, duplex or triplex)",,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,5,Unit in retirement village,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,6,Dwelling/House/Flat/Room in backyard,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,7,Informal dwelling/shack in backyard,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,8,Informal dwelling/Shack not in backyard,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,9,Room/Flatlet,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,10,Caravan/Tent,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,11,Other,,,,,hhdwtyp,q9_2amai,q6_1amai
+21,DwellTypeMain1,dwelltype1,,12,?,,,,,,q9_2amai,q6_1amai
+52,DwellTypeMain2,dwelltype2,,0,Missing,,,,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,1,Dwelling/house or brick structure on a separate stand or yard or on farm,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,2,Traditional dwelling/hut/structure made of traditional materials,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,3,Flat or apartment in a block of flats,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,4,"Town/cluster/semi-detached house (simplex, duplex or triplex)",,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,5,Formal Dwelling/House/Flat/Room in backyard,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,6,Informal dwelling/shack in backyard,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,7,Informal dwelling/Shack not in backyard,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,8,Room in hostel/compound,,,dwell,typedwel,,,
+52,DwellTypeMain2,dwelltype2,,9,Other,,,dwell,typedwel,,,
+66,DwellTypeMain3,dwelltype3,,1,House/part of a house,type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,2,"Flat, including flat on same site as house",type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,3,Town/cluster/semi-detached house ,type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,4,Traditional dwelling (hut),type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,5,Shack,type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,6,Shack on same site as house,type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,7,Hostel/compound,type_dwe,q11tped,,,,,
+66,DwellTypeMain3,dwelltype3,,8,Other,type_dwe,q11tped,,,,,
+22,toimaintype1,toimaintype1,,11,Flush toilet  in dwelling,,,,,,q9_23toi,q6_12toi
+23,toimaintype1,toimaintype1,,17,Other,,,,,,q9_23toi,
+22,toimaintype1,toimaintype1,,21,Flush toilet on site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,22,Chemical toilet on-site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,23,Pit latrine with ventilation pipe on site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,24,Pit latrine without ventilation pipe on site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,25,Bucket toilet on site,,,,,,q9_23toi,q6_12toi
+23,toimaintype1,toimaintype1,,27,Other,,,,,,q9_23toi,
+22,toimaintype1,toimaintype1,,31,Flush toilet  off site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,32,Chemical toilet off-site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,33,Pit latrine with ventilation pipe off-site,,,,,,q9_23toi,q6_12toi
+22,toimaintype1,toimaintype1,,34,Pit latrine without ventilation pipe off-site,,,,,,,q6_12toi
+22,toimaintype1,toimaintype1,,35,Bucket toilet off-site,,,,,,,q6_12toi
+22,toimaintype1,toimaintype1,,36,None,,,,,,q9_23toi,q6_12toi
+23,toimaintype1,toimaintype1,,37,Other,,,,,,q9_23toi,q6_12toi
+47,toindw,toindw,,0,Missing/Not applicable,,,sani_dwe,eeindwel,hhtoildw ,,
+47,toindw,toindw,,1,Flush Toilet ,,,sani_dwe,eeindwel,hhtoildw ,,
+48,toionsite1,toionsite1,,0,Missing,,,,,hhtonsit,,
+48,toionsite1,toionsite1,,1,Flush Toilet ,,,,,hhtonsit,,
+48,toionsite1,toionsite1,,2,Chemical Toilet,,,,,hhtonsit,,
+48,toionsite1,toionsite1,,3,Pit Latrine with ventilation (VIP),,,,,hhtonsit,,
+48,toionsite1,toionsite1,,4,Other pit latrine,,,,,hhtonsit,,
+48,toionsite1,toionsite1,,5,Bucket Toilet,,,,,hhtonsit,,
+53,toionsite2,toionsite2,,0,Missing,,,,eeonsite,,,
+53,toionsite2,toionsite2,,1,Flush Toilet ,,,,eeonsite,,,
+53,toionsite2,toionsite2,,2,Chemical Toilet,,,,eeonsite,,,
+53,toionsite2,toionsite2,,3,Pit Latrine ,,,,eeonsite,,,
+53,toionsite2,toionsite2,,4,Bucket Toilet,,,,eeonsite,,,
+64,toionsite3,toionsite3,,0,Missing/Not applicable,,,sani_si,,,,
+64,toionsite3,toionsite3,,1,Flush Toilet ,,,sani_si,,,,
+64,toionsite3,toionsite3,,2,Chemical Toilet,,,sani_si,,,,
+64,toionsite3,toionsite3,,3,Pit Latrine  with ventilation,,,sani_si,,,,
+64,toionsite3,toionsite3,,4,Other pit latrine,,,sani_si,,,,
+64,toionsite3,toionsite3,,5,Bucket Toilet,,,sani_si,,,,
+64,toionsite3,toionsite3,,7,Other,,,sani_si,,,,
+49,toiofsit1,toiofsit1,,0,Missing,,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,1,Flush Toilet ,,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,2,Chemical Toilet,,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,3,Pit Latrine with ventilation (VIP),,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,4,Other pit latrine,,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,5,Bucket Toilet,,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,6,None,,,,,hhtofsit,,
+49,toiofsit1,toiofsit1,,7,Other,,,,,hhtofsit,,
+54,toiofsit2,toiofsit2,,0,Missing,,,,eoffsite,,,
+54,toiofsit2,toiofsit2,,1,Flush Toilet ,,,,eoffsite,,,
+54,toiofsit2,toiofsit2,,2,Chemical Toilet,,,,eoffsite,,,
+54,toiofsit2,toiofsit2,,3,Pit Latrine ,,,,eoffsite,,,
+54,toiofsit2,toiofsit2,,4,Bucket Toilet,,,,eoffsite,,,
+54,toiofsit2,toiofsit2,,5,Other/none,,,,eoffsite,,,
+65,toiofsit3,toiofsit3,,0,Missing/Not applicable,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,1,Flush Toilet ,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,2,Chemical Toilet,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,3,Pit Latrine  with ventilation,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,4,Other pit latrine,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,5,Bucket Toilet,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,6,None,,,sani_osi,,,,
+65,toiofsit3,toiofsit3,,7,Other,,,sani_osi,,,,
+67,toimaintype2,toimaintype2,,1,Flush Toilet ,sanit,q111san,,,,,
+67,toimaintype2,toimaintype2,,2,Chemical Toilet,sanit,q111san,,,,,
+67,toimaintype2,toimaintype2,,3,Pit Latrine  with ventilation (VIP),sanit,q111san,,,,,
+67,toimaintype2,toimaintype2,,4,Other pit latrine,sanit,q111san,,,,,
+67,toimaintype2,toimaintype2,,5,Bucket Toilet,sanit,q111san,,,,,
+67,toimaintype2,toimaintype2,,6,None,sanit,q111san,,,,,
+23,WtrSource3,watersource3,,0,Missing,,,,mainwate,hhwater,,
+23,WtrSource3,watersource3,,1,Piped (Tap) Water in dwelling,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,2,Piped (Tap) Water on site or in yard,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,3,Public tap,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,4,Water-Carrier/Tanker,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,5,Borehole on site,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,6,Borehole off site/communal,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,7,Rain-water tank on site,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,8,Flowing water/stream river,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,9,Dam/Pool/Stagnant water,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,10,Well,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,11,Spring,,,,mainwate,hhwater,q9_13wat,q6_7wate
+23,WtrSource3,watersource3,,12,Other,,,,mainwate,hhwater,q9_13wat,q6_7wate
+68,watersource4,watersource4,,1,Running tap water in the dwelling,,,wsou_mdr,,,,
+68,watersource4,watersource4,,2,Running tap water on the site,,,wsou_mdr,,,,
+68,watersource4,watersource4,,3,Water carrier/tanker,,,wsou_mdr,,,,
+68,watersource4,watersource4,,4,Piped to public tap/kiosk,,,wsou_mdr,,,,
+68,watersource4,watersource4,,5,Borehole with handpump on site,,,wsou_mdr,,,,
+68,watersource4,watersource4,,6,Borehole with handpump: communal,,,wsou_mdr,,,,
+68,watersource4,watersource4,,7,Borehole with engine on site,,,wsou_mdr,,,,
+68,watersource4,watersource4,,8,Borehole with engine: communal,,,wsou_mdr,,,,
+68,watersource4,watersource4,,9,Rain-water tank,,,wsou_mdr,,,,
+68,watersource4,watersource4,,10,Flowing water/stream,,,wsou_mdr,,,,
+68,watersource4,watersource4,,11,Dam/pool/stagnant water,,,wsou_mdr,,,,
+68,watersource4,watersource4,,12,Well (non-borehole) on site,,,wsou_mdr,,,,
+68,watersource4,watersource4,,13,Well (non-borehole): communal,,,wsou_mdr,,,,
+68,watersource4,watersource4,,14,Protected spring,,,wsou_mdr,,,,
+68,watersource4,watersource4,,15,Unprotected spring,,,wsou_mdr,,,,
+68,watersource4,watersource4,,16,Other,,,wsou_mdr,,,,
+69,watersource5,watersource5,,1,Running tap water in the dwelling,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,2,Running tap water on the site,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,3,Water carrier/tanker,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,4,Piped to public tap/kiosk (free),sourwatr,q16water,,,,,
+69,watersource5,watersource5,,5,Piped to public tap/kiosk (payment required),sourwatr,q16water,,,,,
+69,watersource5,watersource5,,6,Borehole with handpump on site,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,7,Borehole with handpump: communal,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,8,Borehole with engine on site,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,9,Borehole with engine: communal,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,10,Rain-water tank,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,11,Flowing water/stream,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,12,Dam/pool/stagnant water,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,13,Well (non-borehole) on site,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,14,Well (non-borehole): communal,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,15,Protected spring,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,16,Unprotected spring,sourwatr,q16water,,,,,
+69,watersource5,watersource5,,17,Other,sourwatr,q16water,,,,,
+24,FuelCook1,fuelcook1,,1,Electricity from mains,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,2,Electricity from generator,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,3,Gas,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,4,Paraffin,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,5,Wood,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,6,Coal,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,7,Candles,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,8,Animal dung,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,9,Solar energy,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,10,Other,,,,,,,q6_10aco
+24,FuelCook1,fuelcook1,,11,None,,,,,,,q6_10aco
+32,FuelCook2,fuelcook2,,0,Missing,,,,,hhcook,,
+32,FuelCook2,fuelcook2,,1,Electricity,,,,,hhcook,q9_17aco,
+32,FuelCook3,fuelcook2,,2,Gas,,,,,hhcook,q9_17aco,
+32,FuelCook4,fuelcook2,,3,Paraffin,,,,,hhcook,q9_17aco,
+32,FuelCook5,fuelcook2,,4,Wood,,,,,hhcook,q9_17aco,
+32,FuelCook6,fuelcook2,,5,Coal,,,,,hhcook,q9_17aco,
+32,FuelCook8,fuelcook2,,7,Animal dung,,,,,hhcook,q9_17aco,
+32,FuelCook9,fuelcook2,,8,Solar energy,,,,,hhcook,q9_17aco,
+32,FuelCook10,fuelcook2,,9,Other,,,,,hhcook,q9_17aco,
+55,FuelCook3,fuelcook3,,0,Missing,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,1,Electricity,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,2,Gas,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,3,Paraffin,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,4,Wood,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,5,Coal,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,7,Animal dung,,,,ecooking,,,
+55,FuelCook3,fuelcook3,,8,Other,,,,ecooking,,,
+70,FuelCook4,fuelcook4,,1,Electricity,,,,,,,
+70,FuelCook4,fuelcook4,,2,Gas,,,,,,,
+70,FuelCook4,fuelcook4,,3,Paraffin,,,,,,,
+70,FuelCook4,fuelcook4,,4,Wood,,,,,,,
+70,FuelCook4,fuelcook4,,5,Coal,,,,,,,
+70,FuelCook4,fuelcook4,,6,Other,,,,,,,
+25,FuelHeat1,fuelheat1,,1,Electricity from mains,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,2,Electricity from generator,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,3,Gas,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,4,Paraffin,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,5,Wood,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,6,Coal,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,7,Candles,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,8,Animal dung,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,9,Solar energy,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,10,Other,,,,,,, q6_10bhe
+25,FuelHeat1,fuelheat1,,11,None,,,,,,, q6_10bhe
+33,FuelHeat2,fuelheat2,,0,Missing,,,,,hhheat,,
+33,FuelHeat2,fuelheat2,,1,Electricity,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,2,Gas,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,3,Paraffin,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,4,Wood,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,5,Coal,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,7,Animal dung,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,8,Solar energy,,,,,hhheat,q9_17bhe,
+33,FuelHeat2,fuelheat2,,9,Other,,,,,hhheat,q9_17bhe,
+56,FuelHeat3,fuelheat3,,0,Missing,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,1,Electricity,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,2,Gas,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,3,Paraffin,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,4,Wood,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,5,Coal,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,7,Animal dung,,,,eheating,,,
+56,FuelHeat3,fuelheat3,,8,Other,,,,eheating,,,
+71,FuelHeat4,fuelheat4,,0,Missing,,,,,,,
+71,FuelHeat4,fuelheat4,,1,Electricity,,,,,,,
+71,FuelHeat4,fuelheat4,,2,Gas,,,,,,,
+71,FuelHeat4,fuelheat4,,3,Paraffin,,,,,,,
+71,FuelHeat4,fuelheat4,,4,Wood,,,,,,,
+71,FuelHeat4,fuelheat4,,5,Coal,,,,,,,
+71,FuelHeat4,fuelheat4,,7,Other,,,,,,,
+26,FuelLight1,fuellight1,,1,Electricity from mains,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,2,Electricity from generator,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,3,Gas,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,4,Paraffin,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,5,Wood,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,6,Coal,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,7,Candles,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,8,Animal dung,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,9,Solar energy,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,10,Other,,,,,,, q6_10cli
+26,FuelLight1,fuellight1,,11,None,,,,,,, q6_10cli
+34,FuelLight2,fuellight2,,0,Missing,,,,,hhlight,,
+34,FuelLight2,fuellight2,,1,Electricity ,,,,,hhlight, q9_17cli,
+34,FuelLight2,fuellight2,,2,Gas,,,,,hhlight, q9_17cli,
+34,FuelLight2,fuellight2,,3,Paraffin,,,,,hhlight, q9_17cli,
+34,FuelLight2,fuellight2,,6,Candles,,,,,hhlight, q9_17cli,
+34,FuelLight2,fuellight2,,8,Solar energy,,,,,hhlight, q9_17cli,
+34,FuelLight2,fuellight2,,9,Other,,,,,hhlight, q9_17cli,
+57,FuelLight3,fuellight3,,0,Missing,,,,lighting,,,
+57,FuelLight3,fuellight3,,1,Electricity ,,,,lighting,,,
+57,FuelLight3,fuellight3,,2,Gas,,,,lighting,,,
+57,FuelLight3,fuellight3,,3,Paraffin,,,,lighting,,,
+57,FuelLight3,fuellight3,,6,Candles,,,,lighting,,,
+57,FuelLight3,fuellight3,,8,Other,,,,lighting,,,
+72,FuelLight4,fuellight4,,0,Missing,,,,,,,
+72,FuelLight4,fuellight4,,1,Electricity ,,,,,,,
+72,FuelLight4,fuellight4,,2,Gas,,,,,,,
+72,FuelLight4,fuellight4,,3,Paraffin,,,,,,,
+72,FuelLight4,fuellight4,,6,Candles,,,,,,,
+72,FuelLight4,fuellight4,,8,Other,,,,,,,
+27,marstat3,marstat3,,1,Married - Civil,,,,,,q1_5mari,q1_2mari
+27,marstat3,marstat3,,2,Married-Traditional (Customary),,,,,,q1_5mari,q1_2mari
+27,marstat3,marstat3,,3,Living together with partner,,,,,,q1_5mari,q1_2mari
+27,marstat3,marstat3,,4,Widow/widower,,,,,,q1_5mari,q1_2mari
+27,marstat3,marstat3,,5,Divorced or separated,,,,,,q1_5mari,q1_2mari
+27,marstat3,marstat3,,6,Never married,,,,,,q1_5mari,q1_2mari
+39,marstat4,marstat4,,0,Missing,,,,maritals,,,
+39,marstat4,marstat4,,1,Never married,marital,marstat,q25,maritals,pmarital,,
+39,marstat4,marstat4,,2,Married - Civil,marital,marstat,q25,maritals,pmarital,,
+39,marstat4,marstat4,,3,Married-Traditional (Customary),marital,marstat,q25,maritals,pmarital,,
+39,marstat4,marstat4,,4,Living together with partner,marital,marstat,q25,maritals,pmarital,,
+39,marstat4,marstat4,,5,Widow/widower,marital,marstat,q25,maritals,pmarital,,
+39,marstat4,marstat4,,6,Divorced or separated,marital,marstat,q25,maritals,pmarital,,
+28,JobUnion,jobunion,,0,Missing/Not applicable,trade_un,q311,q313,memunion,wtradeu,,
+28,JobUnion,jobunion,,1,Yes,trade_un,q311,q313,memunion,wtradeu,q3_17tra,q3_18tra 
+28,JobUnion,jobunion,,2,No,trade_un,q311,q313,memunion,wtradeu,q3_17tra,q3_18tra 
+28,JobUnion,jobunion,,3,Don't know,,,,,,,q3_18tra 
+28,JobUnion,jobunion,,8888,Not applicable,,,,,,,q3_18tra 
+41,,searchhow2,,0,Missing,,,,,wwhfnd1,,
+41,,searchhow2,,1,"Nothing, but still wants work",,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,2,"Nothing, wants work but already has a job",,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,3,Waited/registered at employment agency/trade union,,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,4,"Enquired at workplaces, farms, factories",,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,5,Placed/answered advertisement(s),,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,6,Sought assistance from relatives or friends,,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,7,"Looked for land, building, equipment, applied for permit to start business",,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,8,Sought/underwent training,,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,9,Waited at the street side where casual workers are found,,,,,wwhfnd1,q3_34awh,q3_32awh
+41,,searchhow2,,10,Does not want and is not seeking work,,,,,,q3_34awh,q3_32awh
+41,,searchhow2,,11,Don't know,,,,,,q3_34awh,q3_32awh
+58,,searchhow3,,0,Missing/not applicable,method1,q329a,q330a,findwork,,,
+58,,searchhow3,,1,"Nothing, but still wants work",method1,q329a,q330a,findwork,,,
+58,,searchhow3,,2,"Nothing, wants work but already has a job",method1,q329a,q330a,findwork,,,
+58,,searchhow3,,3,Waited/registered at employment agency/trade union,method1,q329a,q330a,findwork,,,
+58,,searchhow3,,4,"Enquired at workplaces, farms, factories",method1,q329a,q330a,findwork,,,
+58,,searchhow3,,5,Placed/answered advertisement(s),method1,q329a,q330a,findwork,,,
+58,,searchhow3,,6,Sought assistance from relatives or friends,method1,q329a,q330a,findwork,,,
+58,,searchhow3,,7,"Looked for land, building, equipment, applied for permit to start business",method1,q329a,q330a,findwork,,,
+58,,searchhow3,,8,Sought/underwent training,method1,q329a,q330a,findwork,,,
+58,,searchhow3,,9,Other,method1,q329a,q330a,,,,
+89,incpension,incpension,,1,Yes,,,,,wpnsgov,q4_1agov,q4_1govp
+89,incpension,incpension,,2,No,,,,,wpnsgov,q4_1agov,q4_1govp
+89,incpension,incpension,,3,Don't Know,,,,,wpnsgov,q4_1agov,q4_1govp
+90, incdisabgrnt , incdisabgrnt ,,1,Yes,,,,,wdiss,q4_3adis,q4_3diss
+90, incdisabgrnt , incdisabgrnt ,,2,No,,,,,wdiss,q4_3adis,q4_3diss
+90, incdisabgrnt , incdisabgrnt ,,3,Don't Know,,,,,wdiss,q4_3adis,q4_3diss
+91,inctstmaint,inctstmaint,,1,Yes,,,,,wmntnce,q4_5asta,q4_5stat
+91,inctstmaint,inctstmaint,,2,No,,,,,wmntnce,q4_5asta,q4_5stat
+91,inctstmaint,inctstmaint,,3,Don't Know,,,,,wmntnce,q4_5asta,q4_5stat
+92,incdepgrnt ,incdepgrnt ,,1,Yes,,,,,wcare,q4_7adep,q4_7depe
+92,incdepgrnt ,incdepgrnt ,,2,No,,,,,wcare,q4_7adep,q4_7depe
+92,incdepgrnt ,incdepgrnt ,,3,Don't Know,,,,,wcare,q4_7adep,q4_7depe
+97,selfformalreg,selfformalreg,"Zero is Don't know/missing or not applicable in 94 and 95, and DON'T KNOW/missing in 96, 97",0,Missing/Not applicable,registra,q317,q320,eworkreg,wservsct,,
+97,selfformalreg,selfformalreg,,1,"Yes, formal",registra,q317,q320,eworkreg,wservsct,q3_23bus,q3_24bus
+97,selfformalreg,selfformalreg,,2,"No, informal",registra,q317,q320,eworkreg,wservsct,q3_23bus,q3_24bus
+97,selfformalreg,selfformalreg,,8888,Not applicable/missing,,,,,,,q3_24bus
+99,selfvatreg,selfvatreg,"Zero is Don't know/missing or not applicable in 94 and 95, and DON'T KNOW/missing in 96, 97",0,Missing/Not applicable,vat, q318, q321, vatnumbe,wvatno,,
+99,selfvatreg,selfvatreg,,1,Yes,vat, q318, q321, vatnumbe,wvatno, q3_24vat,q3_25vat
+99,selfvatreg,selfvatreg,,2,No,vat, q318, q321, vatnumbe,wvatno, q3_24vat,q3_25vat
+99,selfvatreg,selfvatreg,,3,Don't know,,,,,,,q3_25vat
+99,selfvatreg,selfvatreg,,8888,Not applicable/missing,,,,,,,q3_25vat
+98,wageformalreg,wageformalreg,,0,Missing/Don't know,,,,,wemplsec,,
+98,wageformalreg,wageformalreg,,1,Yes/ formal,,,,,wemplsec,q3_18emp,q3_19emp
+98,wageformalreg,wageformalreg,,2,No/ informal (including domestic work),,,,,wemplsec,q3_18emp,q3_19emp
+98,wageformalreg,wageformalreg,,8888,Not applicable,,,,,,,q3_19emp
